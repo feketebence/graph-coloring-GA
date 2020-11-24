@@ -1,4 +1,4 @@
-# Graph Coloring with GA
+# Graph Coloring with Genetic Algorithm
 <h3>
  Graph coloring with genetic algorithms. The graphs represent an unsolved sudoku, <a href="http://www.sudoku-space.com/hyper-sudoku/">Hyper-Sudoku</a> or <a href="https://en.wikipedia.org/wiki/Nonomino">Nonomino</a> board.
 </h3>
