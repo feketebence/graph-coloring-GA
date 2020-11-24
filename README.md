@@ -15,4 +15,3 @@ Communication between GA and visualization component with <a href="https://githu
     <li>ZeroMQ Python bindings <code>$ pip install pyzmq </code></li>
     <li>NetworkX <code>$ pip install networkx </code></li>
 </ol>  
-<h3>Pull Request Test</h3>
