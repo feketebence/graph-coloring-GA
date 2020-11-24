@@ -3,6 +3,9 @@
  Graph coloring with genetic algorithms. The graphs represent an unsolved sudoku, <a href="http://www.sudoku-space.com/hyper-sudoku/">Hyper-Sudoku</a> or <a href="https://en.wikipedia.org/wiki/Nonomino">Nonomino</a> board.
 </h3>
 <br>
+
+![cover-img](misc/graph-coloring-GA-cover.png?raw=true "Visualization demo of an unfinished 4x4 sudoku graph")
+
 <br>
 Graph representation with <a href="https://networkx.org/">NetworkX</a>. <br>
 Live graph visualization with <a href="https://graphstream-project.org/">GraphStream</a>. <br>
