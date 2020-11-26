@@ -175,13 +175,11 @@ class HyperSudoku(unittest.TestCase):
                 [4, 2, 5, 7, 6, 9, 3, 8, 1]]
 
         self.assertEqual(HyperSudoku.solve(grid), soln)
-        print("Given matrix: ")
+        print("Given Hyper-Sudoku grid: ")
         HyperSudoku.printGrid(original)
-        print("Solved matrix: ")
+        print("Solved Hyper-Sudoku grid: ")
         HyperSudoku.printGrid(HyperSudoku.solve(grid))
 
 
 if __name__ == "__main__":
     unittest.main()
-
-# TODO: create more unsolved Hyper-Sudoku grids.
