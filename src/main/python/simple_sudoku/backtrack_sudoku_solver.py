@@ -1,4 +1,4 @@
-# importing from the ../utils/print_util.py file
+# setting up the import form the ../utils folder
 import os,sys,inspect
 current_dir = os.path.dirname(os.path.abspath(inspect.getfile(inspect.currentframe())))
 parent_dir = os.path.dirname(current_dir)
@@ -72,7 +72,7 @@ number_of_zeros = 60
 
 unsolved_grid = generate_unsolved_sudoku(number_of_zeros, SQ_GRID, GRID_SIZE)
 
-print("\nboard after random element deletion (number of zeros = " + str(number_of_zeros) + "):")
+print("\nThe board after deleting random elements (number of zeros = " + str(number_of_zeros) + "):")
 for line in unsolved_grid:
     print(line)
 
