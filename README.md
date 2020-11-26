@@ -18,3 +18,6 @@ Communication between GA and visualization component with <a href="https://githu
     <li>ZeroMQ Python bindings <code>$ pip install pyzmq </code></li>
     <li>NetworkX <code>$ pip install networkx </code></li>
 </ol>  
+
+![cover-img](misc/graph_vizu_v0.1_demo.gif "Visualization demo of an unfinished 9x9 sudoku graph")
+
