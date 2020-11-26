@@ -1,8 +1,15 @@
+# importing from the ../utils/print_util.py file
+import os,sys,inspect
+current_dir = os.path.dirname(os.path.abspath(inspect.getfile(inspect.currentframe())))
+parent_dir = os.path.dirname(current_dir)
+sys.path.insert(0, parent_dir + "/utils")
 from print_util import print_9x9_board
 
 ## Imports needed for testing ##
 from unsolved_sudoku_generator import generate_unsolved_sudoku
 from unsolved_sudoku_generator import flatten_grid
+
+
 
 #meg kell kapjuk az üres értékeket
 def find_next_empty(grid):
@@ -79,3 +86,5 @@ print("\nThe generated Sudoku is solvable: " + str(solve_sudoku_backtrack(unsolv
 
 print("\nThe pretty printed grid:")
 print_9x9_board(unsolved_grid)
+
+# TODO: add docstrings
