@@ -289,7 +289,7 @@ def genetic_algorithm(sudoku):
     N_MATING_POOL = 10
     # selection pressure for tournament selection
     S_PRESSURE = 10
-    MAX_GENER = 100000
+    MAX_GENER = 600
 
     generation = 0
 
