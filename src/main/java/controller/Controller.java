@@ -128,7 +128,78 @@ public class Controller {
     }
 
     private void setStyle() {
+        // the correct way, but cannnot create the jar properly and throws java.io.FileNotFoundException: src/main/resources/stylesheet.css
+        // therefore I use the explicit style string as a fallback
+
         StringBuilder stylesheet = new StringBuilder();
+
+        //the ugly way as a fallback
+        String stylesheetManual = "node {\n" +
+                "\tfill-color: rgb(0,0,0);\n" +
+                "\ttext-alignment: under;\n" +
+                "\tsize: 20px;\n" +
+                "\tstroke-mode: plain;\n" +
+                "\tstroke-color: #000;\n" +
+                "\ttext-size: 15px;\n" +
+                "}\n" +
+                "\n" +
+                "node.zero {\n" +
+                "\tfill-color: rgb(0,0,0);\n" +
+                "}\n" +
+                "\n" +
+                "node.one {\n" +
+                "\tfill-color: rgb(166,206,227);\n" +
+                "}\n" +
+                "\n" +
+                "\n" +
+                "node.two {\n" +
+                "\tfill-color: rgb(31,120,180);\n" +
+                "}\n" +
+                "\n" +
+                "\n" +
+                "node.three {\n" +
+                "\tfill-color: rgb(178,223,138);\n" +
+                "}\n" +
+                "\n" +
+                "\n" +
+                "node.four {\n" +
+                "\tfill-color: rgb(51,160,44);\n" +
+                "}\n" +
+                "\n" +
+                "\n" +
+                "node.five {\n" +
+                "\tfill-color: rgb(251,154,153);\n" +
+                "}\n" +
+                "\n" +
+                "\n" +
+                "node.six {\n" +
+                "\tfill-color: rgb(227,26,28);\n" +
+                "}\n" +
+                "\n" +
+                "\n" +
+                "node.seven {\n" +
+                "\tfill-color: rgb(253,191,111);\n" +
+                "}\n" +
+                "\n" +
+                "\n" +
+                "node.eight {\n" +
+                "\tfill-color: rgb(255,127,0);\n" +
+                "}\n" +
+                "\n" +
+                "\n" +
+                "node.nine {\n" +
+                "\tfill-color: rgb(202,178,214);\n" +
+                "}\n" +
+                "\n" +
+                "edge {\n" +
+                "    fill-color: rgb(0, 0, 0);\n" +
+                "    shape: cubic-curve;\n" +
+                "}\n" +
+                "\n" +
+                "\n" +
+                "edge.conflict {\n" +
+                "    fill-color: rgb(255, 15, 55);\n" +
+                "}";
 
         try {
             File cssFile = new File("src/main/resources/stylesheet.css");
@@ -139,80 +210,19 @@ public class Controller {
             }
 
             scanner.close();
+            this.graph.setAttribute("ui.stylesheet", stylesheet.toString());
 
         } catch (FileNotFoundException e) {
-            System.out.println("File not found");
-            e.printStackTrace();
+            System.out.println("File src/main/resources/stylesheet.css not found");
+//            e.printStackTrace();
+
+            System.out.println("Using explicit stylesheet from source code");
+            this.graph.setAttribute("ui.stylesheet", stylesheetManual);
         }
 
-        this.graph.setAttribute("ui.stylesheet", stylesheet.toString());
 
-//        String stylesheet = "node {\n" +
-//                "\tfill-color: rgb(0,0,0);\n" +
-//                "\ttext-alignment: under;\n" +
-//                "\tsize: 20px;\n" +
-//                "\tstroke-mode: plain;\n" +
-//                "\tstroke-color: #000;\n" +
-//                "\ttext-size: 15px;\n" +
-//                "}\n" +
-//                "\n" +
-//                "node.zero {\n" +
-//                "\tfill-color: rgb(0,0,0);\n" +
-//                "}\n" +
-//                "\n" +
-//                "node.one {\n" +
-//                "\tfill-color: rgb(166,206,227);\n" +
-//                "}\n" +
-//                "\n" +
-//                "\n" +
-//                "node.two {\n" +
-//                "\tfill-color: rgb(31,120,180);\n" +
-//                "}\n" +
-//                "\n" +
-//                "\n" +
-//                "node.three {\n" +
-//                "\tfill-color: rgb(178,223,138);\n" +
-//                "}\n" +
-//                "\n" +
-//                "\n" +
-//                "node.four {\n" +
-//                "\tfill-color: rgb(51,160,44);\n" +
-//                "}\n" +
-//                "\n" +
-//                "\n" +
-//                "node.five {\n" +
-//                "\tfill-color: rgb(251,154,153);\n" +
-//                "}\n" +
-//                "\n" +
-//                "\n" +
-//                "node.six {\n" +
-//                "\tfill-color: rgb(227,26,28);\n" +
-//                "}\n" +
-//                "\n" +
-//                "\n" +
-//                "node.seven {\n" +
-//                "\tfill-color: rgb(253,191,111);\n" +
-//                "}\n" +
-//                "\n" +
-//                "\n" +
-//                "node.eight {\n" +
-//                "\tfill-color: rgb(255,127,0);\n" +
-//                "}\n" +
-//                "\n" +
-//                "\n" +
-//                "node.nine {\n" +
-//                "\tfill-color: rgb(202,178,214);\n" +
-//                "}\n" +
-//                "\n" +
-//                "edge {\n" +
-//                "    fill-color: rgb(0, 0, 0);\n" +
-//                "    shape: cubic-curve;\n" +
-//                "}\n" +
-//                "\n" +
-//                "\n" +
-//                "edge.conflict {\n" +
-//                "    fill-color: rgb(255, 15, 55);\n" +
-//                "}";
+
+
 //
 //        this.graph.setAttribute("ui.stylesheet", stylesheet);
     }
