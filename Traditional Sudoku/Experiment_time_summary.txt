@@ -1,0 +1,18 @@
+1. Sudoku (# of 0-s: 5):
+	Backtracking: 0.0 seconds	GA: 0.06098069667816162 seconds (10, 0.07, 0.9, 5)
+
+2. Sudoku (# of 0-s: 15):
+	Backtracking: 0.0 seconds	GA: 0.2717992284081199 seconds (30, 0.07, 0.9, 10)
+
+3. Sudoku (# of 0-s: 25): 
+	Backtracking: 0.0009949207305908203 seconds	GA: 1.7430128782987595 seconds (10, 0.07, 1.0, 10)
+
+Megjegyzés: Egy ideig csökkent az idő, amely alatt elvégezte a feladatot,
+viszont egy adott pont után már egyre rosszabb idők jöttek ki 
+(paraméterek bizonyos kombinációja nem jött be neki).
+
+4. Sudoku (# of 0-s: 28): 
+	Backtracking: 0.0009970664978027344 seconds	GA: 1.896309596300125 seconds (10, 0.07, 1.0, 10)
+
+5. Sudoku (# of 0-s: 30): 
+	Backtracking: 0.0009975433349609375 seconds	GA: 2.739567836125692 seconds (10, 0.07, 0.9, 10)

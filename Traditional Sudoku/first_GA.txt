@@ -1,0 +1,319 @@
+Parameters: 10, 0.03, 0.9, 5.
+Experiment 0:
+Experiment 1:
+Experiment 2:
+Generation 0. best score: 0
+Experiment 3:
+Experiment 4:
+Experiment 5:
+Experiment 6:
+Experiment 7:
+Generation 0. best score: 0
+Experiment 8:
+Experiment 9:
+Mean: 0.2; Std: 0.42163702135578396
+Time mean: 0.06604266166687012; Std: 0.018660914935686803
+Parameters: 10, 0.03, 0.9, 10.
+Experiment 0:
+Experiment 1:
+Experiment 2:
+Experiment 3:
+Experiment 4:
+Experiment 5:
+Experiment 6:
+Experiment 7:
+Experiment 8:
+Experiment 9:
+Mean: 0.1; Std: 0.30779350562554625
+Time mean: 0.06557151079177856; Std: 0.016254914313639877
+Parameters: 10, 0.03, 1.0, 5.
+Experiment 0:
+Experiment 1:
+Experiment 2:
+Experiment 3:
+Experiment 4:
+Experiment 5:
+Experiment 6:
+Experiment 7:
+Experiment 8:
+Experiment 9:
+Mean: 0.06666666666666667; Std: 0.2537081317024625
+Time mean: 0.061801608403523764; Std: 0.01515703702520869
+Parameters: 10, 0.03, 1.0, 10.
+Experiment 0:
+Generation 0. best score: 0
+Experiment 1:
+Experiment 2:
+Experiment 3:
+Experiment 4:
+Experiment 5:
+Experiment 6:
+Experiment 7:
+Experiment 8:
+Experiment 9:
+Mean: 0.075; Std: 0.2667467828369186
+Time mean: 0.06326722502708435; Std: 0.01561736838367635
+Parameters: 10, 0.07, 0.9, 5.
+Experiment 0:
+Experiment 1:
+Experiment 2:
+Experiment 3:
+Experiment 4:
+Experiment 5:
+Experiment 6:
+Experiment 7:
+Experiment 8:
+Experiment 9:
+Mean: 0.06; Std: 0.2398979374820953
+Time mean: 0.06098069667816162; Std: 0.014888296216916798
+Parameters: 10, 0.07, 0.9, 10.
+Experiment 0:
+Experiment 1:
+Experiment 2:
+Experiment 3:
+Generation 0. best score: -2
+Experiment 4:
+Experiment 5:
+Experiment 6:
+Experiment 7:
+Experiment 8:
+Experiment 9:
+Mean: 0.2; Std: 1.1760318224680946
+Time mean: 0.0637228767077128; Std: 0.03256654291981737
+Parameters: 10, 0.07, 1.0, 5.
+Experiment 0:
+Experiment 1:
+Experiment 2:
+Experiment 3:
+Experiment 4:
+Experiment 5:
+Experiment 6:
+Experiment 7:
+Experiment 8:
+Generation 0. best score: 0
+Experiment 9:
+Mean: 0.18571428571428572; Std: 1.094026695258341
+Time mean: 0.06396208831242152; Std: 0.03031357760534818
+Parameters: 10, 0.07, 1.0, 10.
+Experiment 0:
+Experiment 1:
+Experiment 2:
+Generation 0. best score: -2
+Experiment 3:
+Experiment 4:
+Experiment 5:
+Experiment 6:
+Experiment 7:
+Experiment 8:
+Experiment 9:
+Mean: 0.2; Std: 1.072085392404727
+Time mean: 0.0644124835729599; Std: 0.02986766544414256
+Parameters: 20, 0.03, 0.9, 5.
+Experiment 0:
+Experiment 1:
+Experiment 2:
+Experiment 3:
+Experiment 4:
+Experiment 5:
+Experiment 6:
+Experiment 7:
+Experiment 8:
+Experiment 9:
+Mean: 0.17777777777777778; Std: 1.0120374130156051
+Time mean: 0.07054286268022325; Std: 0.03317324986522029
+Parameters: 20, 0.03, 0.9, 10.
+Experiment 0:
+Experiment 1:
+Experiment 2:
+Experiment 3:
+Experiment 4:
+Experiment 5:
+Experiment 6:
+Experiment 7:
+Experiment 8:
+Experiment 9:
+Mean: 0.16; Std: 0.9610600208292729
+Time mean: 0.07479962110519409; Std: 0.03413696705886199
+Parameters: 20, 0.03, 1.0, 5.
+Experiment 0:
+Experiment 1:
+Experiment 2:
+Experiment 3:
+Experiment 4:
+Experiment 5:
+Experiment 6:
+Experiment 7:
+Experiment 8:
+Experiment 9:
+Mean: 0.14545454545454545; Std: 0.9170791651556764
+Time mean: 0.07812414386055687; Std: 0.03442983606553806
+Parameters: 20, 0.03, 1.0, 10.
+Experiment 0:
+Experiment 1:
+Experiment 2:
+Experiment 3:
+Experiment 4:
+Experiment 5:
+Experiment 6:
+Experiment 7:
+Experiment 8:
+Experiment 9:
+Mean: 0.13333333333333333; Std: 0.8786289293656389
+Time mean: 0.08101149797439575; Std: 0.03452013913667541
+Parameters: 20, 0.07, 0.9, 5.
+Experiment 0:
+Experiment 1:
+Experiment 2:
+Experiment 3:
+Experiment 4:
+Experiment 5:
+Experiment 6:
+Experiment 7:
+Experiment 8:
+Experiment 9:
+Mean: 0.12307692307692308; Std: 0.844640050993556
+Time mean: 0.08407922341273381; Std: 0.03524959313679743
+Parameters: 20, 0.07, 0.9, 10.
+Experiment 0:
+Experiment 1:
+Experiment 2:
+Experiment 3:
+Experiment 4:
+Experiment 5:
+Experiment 6:
+Experiment 7:
+Experiment 8:
+Experiment 9:
+Mean: 0.11428571428571428; Std: 0.8143118583639463
+Time mean: 0.08771988323756627; Std: 0.03743112217784117
+Parameters: 20, 0.07, 1.0, 5.
+Experiment 0:
+Experiment 1:
+Experiment 2:
+Experiment 3:
+Experiment 4:
+Experiment 5:
+Experiment 6:
+Experiment 7:
+Generation 0. best score: -2
+Experiment 8:
+Experiment 9:
+Mean: 0.12666666666666668; Std: 0.821658714129896
+Time mean: 0.09009793281555176; Std: 0.03796306592585918
+Parameters: 20, 0.07, 1.0, 10.
+Experiment 0:
+Experiment 1:
+Experiment 2:
+Experiment 3:
+Experiment 4:
+Experiment 5:
+Experiment 6:
+Experiment 7:
+Experiment 8:
+Experiment 9:
+Mean: 0.11875; Std: 0.7959952830048926
+Time mean: 0.0912341058254242; Std: 0.037153204329643925
+Parameters: 30, 0.03, 0.9, 5.
+Experiment 0:
+Experiment 1:
+Experiment 2:
+Experiment 3:
+Experiment 4:
+Experiment 5:
+Experiment 6:
+Experiment 7:
+Experiment 8:
+Experiment 9:
+Mean: 0.11176470588235295; Std: 0.77259445560384
+Time mean: 0.09553264589870678; Std: 0.040128634732023466
+Parameters: 30, 0.03, 0.9, 10.
+Experiment 0:
+Experiment 1:
+Experiment 2:
+Experiment 3:
+Experiment 4:
+Experiment 5:
+Experiment 6:
+Experiment 7:
+Experiment 8:
+Experiment 9:
+Mean: 0.10555555555555556; Std: 0.7511423123700685
+Time mean: 0.0992937339676751; Std: 0.04233771061509865
+Parameters: 30, 0.03, 1.0, 5.
+Experiment 0:
+Experiment 1:
+Experiment 2:
+Experiment 3:
+Experiment 4:
+Experiment 5:
+Experiment 6:
+Experiment 7:
+Experiment 8:
+Experiment 9:
+Mean: 0.1; Std: 0.731382687052844
+Time mean: 0.10284838425485711; Std: 0.04404322261573734
+Parameters: 30, 0.03, 1.0, 10.
+Experiment 0:
+Experiment 1:
+Experiment 2:
+Experiment 3:
+Experiment 4:
+Experiment 5:
+Experiment 6:
+Experiment 7:
+Experiment 8:
+Experiment 9:
+Mean: 0.095; Std: 0.7131041915033834
+Time mean: 0.10584206938743591; Std: 0.04501963007184018
+Parameters: 30, 0.07, 0.9, 5.
+Experiment 0:
+Experiment 1:
+Experiment 2:
+Experiment 3:
+Experiment 4:
+Experiment 5:
+Experiment 6:
+Experiment 7:
+Experiment 8:
+Experiment 9:
+Mean: 0.09047619047619047; Std: 0.6961306330582405
+Time mean: 0.10917188780648368; Std: 0.04646050674059321
+Parameters: 30, 0.07, 0.9, 10.
+Experiment 0:
+Experiment 1:
+Experiment 2:
+Experiment 3:
+Experiment 4:
+Experiment 5:
+Experiment 6:
+Experiment 7:
+Experiment 8:
+Experiment 9:
+Mean: 0.08636363636363636; Std: 0.6803138240020306
+Time mean: 0.1119485692544417; Std: 0.04724012882918597
+Parameters: 30, 0.07, 1.0, 5.
+Experiment 0:
+Experiment 1:
+Experiment 2:
+Experiment 3:
+Experiment 4:
+Experiment 5:
+Experiment 6:
+Experiment 7:
+Experiment 8:
+Experiment 9:
+Mean: 0.08260869565217391; Std: 0.6655281082014108
+Time mean: 0.11442688651706862; Std: 0.04786033502835199
+Parameters: 30, 0.07, 1.0, 10.
+Experiment 0:
+Experiment 1:
+Experiment 2:
+Experiment 3:
+Experiment 4:
+Experiment 5:
+Experiment 6:
+Experiment 7:
+Experiment 8:
+Experiment 9:
+Mean: 0.07916666666666666; Std: 0.6516661405327714
+Time mean: 0.11942254602909089; Std: 0.053825277195897525
