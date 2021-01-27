@@ -12,6 +12,9 @@ Live graph visualization with <a href="https://graphstream-project.org/">GraphSt
 Communication between GA and visualization component with <a href="https://github.com/zeromq/jeromq">JeroMQ</a> (see <a href="https://zeromq.org/">zeromq.org</a> for more information). <br> 
 <hr>
 
+Start with:
+<code>$ ./start.sh </code>
+
 <h3>Required libraries</h3>
 <ol>
     <li>ZeroMQ <code>$ apt-get install libzmq3-dev </code> </li>
