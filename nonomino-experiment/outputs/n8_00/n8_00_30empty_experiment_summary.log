@@ -1,0 +1,72 @@
+Parameters: [ pop_size=10, p_mutation=0.03, p_crossover=0.9, selection_pressure=5 ]
+Mean: 90.5; Std: 41.18049700201946
+Time mean: 1.478254222869873; Std: 0.6620436641754455
+Parameters: [ pop_size=10, p_mutation=0.03, p_crossover=0.9, selection_pressure=10 ]
+Mean: 107.9; Std: 57.56726043233437
+Time mean: 1.7523296236991883; Std: 0.9182786272299742
+Parameters: [ pop_size=10, p_mutation=0.03, p_crossover=1.0, selection_pressure=5 ]
+Mean: 111.0; Std: 64.13778272137098
+Time mean: 1.8082127491633098; Std: 1.0312605305815896
+Parameters: [ pop_size=10, p_mutation=0.03, p_crossover=1.0, selection_pressure=10 ]
+Mean: 103.5; Std: 61.33639903151999
+Time mean: 1.6904864013195038; Std: 0.9865432731298157
+Parameters: [ pop_size=10, p_mutation=0.07, p_crossover=0.9, selection_pressure=5 ]
+Mean: 102.04; Std: 56.91990792655367
+Time mean: 1.7113847255706787; Std: 0.925562810716744
+Parameters: [ pop_size=10, p_mutation=0.07, p_crossover=0.9, selection_pressure=10 ]
+Mean: 98.96666666666667; Std: 53.226719002951974
+Time mean: 1.687604792912801; Std: 0.8639644389611822
+Parameters: [ pop_size=10, p_mutation=0.07, p_crossover=1.0, selection_pressure=5 ]
+Mean: 98.58571428571429; Std: 51.94771419756567
+Time mean: 1.7067170449665614; Std: 0.8578265919014088
+Parameters: [ pop_size=10, p_mutation=0.07, p_crossover=1.0, selection_pressure=10 ]
+Mean: 99.1625; Std: 52.78052089621652
+Time mean: 1.7363251477479935; Std: 0.8905685137689031
+Parameters: [ pop_size=20, p_mutation=0.03, p_crossover=0.9, selection_pressure=5 ]
+Mean: 102.88888888888889; Std: 61.27896140692262
+Time mean: 1.8448830392625597; Std: 1.1281512874764648
+Parameters: [ pop_size=20, p_mutation=0.03, p_crossover=0.9, selection_pressure=10 ]
+Mean: 101.02; Std: 59.33145723966183
+Time mean: 1.835183057785034; Std: 1.0909418522051344
+Parameters: [ pop_size=20, p_mutation=0.03, p_crossover=1.0, selection_pressure=5 ]
+Mean: 103.00909090909092; Std: 63.27651497822731
+Time mean: 1.9003395904194225; Std: 1.2014618848982288
+Parameters: [ pop_size=20, p_mutation=0.03, p_crossover=1.0, selection_pressure=10 ]
+Mean: 100.31666666666666; Std: 61.53976419381872
+Time mean: 1.8661552707354228; Std: 1.162422787067216
+Parameters: [ pop_size=20, p_mutation=0.07, p_crossover=0.9, selection_pressure=5 ]
+Mean: 105.52307692307693; Std: 69.91603107522526
+Time mean: 2.0494363968188947; Std: 1.519934753662281
+Parameters: [ pop_size=20, p_mutation=0.07, p_crossover=0.9, selection_pressure=10 ]
+Mean: 104.93571428571428; Std: 67.88651244119535
+Time mean: 2.0814348442213877; Std: 1.4832893450934057
+Parameters: [ pop_size=20, p_mutation=0.07, p_crossover=1.0, selection_pressure=5 ]
+Mean: 105.67333333333333; Std: 66.06956844660299
+Time mean: 2.141661279996236; Std: 1.4633754156034837
+Parameters: [ pop_size=20, p_mutation=0.07, p_crossover=1.0, selection_pressure=10 ]
+Mean: 105.79375; Std: 65.00741098293642
+Time mean: 2.180507320165634; Std: 1.4544926267707003
+Parameters: [ pop_size=30, p_mutation=0.03, p_crossover=0.9, selection_pressure=5 ]
+Mean: 104.78235294117647; Std: 63.49872789383304
+Time mean: 2.1828575386720543; Std: 1.418797845003119
+Parameters: [ pop_size=30, p_mutation=0.03, p_crossover=0.9, selection_pressure=10 ]
+Mean: 105.83333333333333; Std: 64.07576695299501
+Time mean: 2.232106305493249; Std: 1.450444260334628
+Parameters: [ pop_size=30, p_mutation=0.03, p_crossover=1.0, selection_pressure=5 ]
+Mean: 106.1421052631579; Std: 63.76947417702498
+Time mean: 2.2626433811689677; Std: 1.4541427247978755
+Parameters: [ pop_size=30, p_mutation=0.03, p_crossover=1.0, selection_pressure=10 ]
+Mean: 107.045; Std: 64.6567510184459
+Time mean: 2.306831007003784; Std: 1.4924773102868258
+Parameters: [ pop_size=30, p_mutation=0.07, p_crossover=0.9, selection_pressure=5 ]
+Mean: 128.7904761904762; Std: 150.26545539776117
+Time mean: 3.0594242958795457; Std: 4.78049544245801
+Parameters: [ pop_size=30, p_mutation=0.07, p_crossover=0.9, selection_pressure=10 ]
+Mean: 128.70454545454547; Std: 147.08938349600686
+Time mean: 3.1094060106710955; Std: 4.685136696028972
+Parameters: [ pop_size=30, p_mutation=0.07, p_crossover=1.0, selection_pressure=5 ]
+Mean: 133.0782608695652; Std: 149.60779279531027
+Time mean: 3.2981859455937923; Std: 4.805771703208978
+Parameters: [ pop_size=30, p_mutation=0.07, p_crossover=1.0, selection_pressure=10 ]
+Mean: 131.5375; Std: 146.89423033549596
+Time mean: 3.292692236105601; Std: 4.7127336660962555

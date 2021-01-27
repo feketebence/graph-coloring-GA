@@ -1,0 +1,1309 @@
+Reading input from file: inputs/n8_59/n8_59_20empty.txt 
+
+1: 	6,1 [color_value:6, group_value: 1]
+2: 	0,1 [color_value:0, group_value: 1]
+3: 	8,1 [color_value:8, group_value: 1]
+4: 	9,1 [color_value:9, group_value: 1]
+5: 	2,2 [color_value:2, group_value: 2]
+6: 	1,2 [color_value:1, group_value: 2]
+7: 	3,2 [color_value:3, group_value: 2]
+8: 	0,2 [color_value:0, group_value: 2]
+9: 	4,3 [color_value:4, group_value: 3]
+10: 	3,1 [color_value:3, group_value: 1]
+11: 	0,1 [color_value:0, group_value: 1]
+12: 	0,1 [color_value:0, group_value: 1]
+13: 	8,2 [color_value:8, group_value: 2]
+14: 	9,2 [color_value:9, group_value: 2]
+15: 	0,2 [color_value:0, group_value: 2]
+16: 	6,2 [color_value:6, group_value: 2]
+17: 	5,2 [color_value:5, group_value: 2]
+18: 	2,3 [color_value:2, group_value: 3]
+19: 	4,1 [color_value:4, group_value: 1]
+20: 	0,4 [color_value:0, group_value: 4]
+21: 	0,4 [color_value:0, group_value: 4]
+22: 	0,4 [color_value:0, group_value: 4]
+23: 	3,3 [color_value:3, group_value: 3]
+24: 	6,3 [color_value:6, group_value: 3]
+25: 	7,3 [color_value:7, group_value: 3]
+26: 	1,3 [color_value:1, group_value: 3]
+27: 	8,3 [color_value:8, group_value: 3]
+28: 	2,1 [color_value:2, group_value: 1]
+29: 	7,4 [color_value:7, group_value: 4]
+30: 	4,4 [color_value:4, group_value: 4]
+31: 	6,4 [color_value:6, group_value: 4]
+32: 	0,3 [color_value:0, group_value: 3]
+33: 	0,3 [color_value:0, group_value: 3]
+34: 	0,5 [color_value:0, group_value: 5]
+35: 	3,5 [color_value:3, group_value: 5]
+36: 	1,5 [color_value:1, group_value: 5]
+37: 	5,6 [color_value:5, group_value: 6]
+38: 	3,4 [color_value:3, group_value: 4]
+39: 	1,4 [color_value:1, group_value: 4]
+40: 	4,7 [color_value:4, group_value: 7]
+41: 	8,7 [color_value:8, group_value: 7]
+42: 	7,5 [color_value:7, group_value: 5]
+43: 	0,5 [color_value:0, group_value: 5]
+44: 	0,5 [color_value:0, group_value: 5]
+45: 	0,5 [color_value:0, group_value: 5]
+46: 	7,6 [color_value:7, group_value: 6]
+47: 	8,4 [color_value:8, group_value: 4]
+48: 	0,6 [color_value:0, group_value: 6]
+49: 	3,7 [color_value:3, group_value: 7]
+50: 	0,7 [color_value:0, group_value: 7]
+51: 	2,8 [color_value:2, group_value: 8]
+52: 	5,5 [color_value:5, group_value: 5]
+53: 	4,5 [color_value:4, group_value: 5]
+54: 	9,9 [color_value:9, group_value: 9]
+55: 	1,6 [color_value:1, group_value: 6]
+56: 	0,6 [color_value:0, group_value: 6]
+57: 	3,6 [color_value:3, group_value: 6]
+58: 	7,7 [color_value:7, group_value: 7]
+59: 	6,8 [color_value:6, group_value: 8]
+60: 	8,8 [color_value:8, group_value: 8]
+61: 	9,8 [color_value:9, group_value: 8]
+62: 	2,9 [color_value:2, group_value: 9]
+63: 	5,9 [color_value:5, group_value: 9]
+64: 	8,6 [color_value:8, group_value: 6]
+65: 	2,6 [color_value:2, group_value: 6]
+66: 	0,7 [color_value:0, group_value: 7]
+67: 	5,7 [color_value:5, group_value: 7]
+68: 	0,8 [color_value:0, group_value: 8]
+69: 	0,8 [color_value:0, group_value: 8]
+70: 	1,9 [color_value:1, group_value: 9]
+71: 	6,9 [color_value:6, group_value: 9]
+72: 	7,9 [color_value:7, group_value: 9]
+73: 	9,6 [color_value:9, group_value: 6]
+74: 	6,7 [color_value:6, group_value: 7]
+75: 	2,7 [color_value:2, group_value: 7]
+76: 	1,8 [color_value:1, group_value: 8]
+77: 	7,8 [color_value:7, group_value: 8]
+78: 	5,8 [color_value:5, group_value: 8]
+79: 	4,9 [color_value:4, group_value: 9]
+80: 	8,9 [color_value:8, group_value: 9]
+81: 	3,9 [color_value:3, group_value: 9]
+Number of zeros (empty cells) in board: 20
+
+Experimenting on the following Nonomino board:
+6 0 8 9 2 1 3 0 4 
+3 0 0 8 9 0 6 5 2 
+4 0 0 0 3 6 7 1 8 
+2 7 4 6 0 0 0 3 1 
+5 3 1 4 8 7 0 0 0 
+7 8 0 3 0 2 5 4 9 
+1 0 3 7 6 8 9 2 5 
+8 2 0 5 0 0 1 6 7 
+9 6 2 1 7 5 4 8 3 
+
+---------=== BEGINNING OF EXPERIMENTS ===---------
+-	Started on:  2020-12-24 20:32:44.473442  -
+--------------------------------------------------
+max_gen = 10000
+
+Parameters: [ pop_size=10, p_mutation=0.03, p_crossover=0.9, selection_pressure=5 ]
+
+Experiment 0:
+Generation 0. best score: -12
+Generation 10. best score: -5
+Generation 20. best score: -3
+Generation 30. best score: -2
+Generation 40. best score: -2
+Generation 50. best score: -2
+
+Experiment 1:
+Generation 0. best score: -10
+Generation 10. best score: -8
+Generation 20. best score: -2
+
+Experiment 2:
+Generation 0. best score: -10
+Generation 10. best score: -4
+Generation 20. best score: -2
+Generation 30. best score: -2
+Generation 40. best score: -2
+
+Experiment 3:
+Generation 0. best score: -12
+Generation 10. best score: -8
+Generation 20. best score: -6
+Generation 30. best score: -4
+
+Experiment 4:
+Generation 0. best score: -7
+Generation 10. best score: -2
+
+Experiment 5:
+Generation 0. best score: -12
+Generation 10. best score: -4
+
+Experiment 6:
+Generation 0. best score: -10
+Generation 10. best score: -7
+Generation 20. best score: -2
+Generation 30. best score: 0
+
+Experiment 7:
+Generation 0. best score: -5
+Generation 10. best score: -2
+
+Experiment 8:
+Generation 0. best score: -10
+Generation 10. best score: -6
+
+Experiment 9:
+Generation 0. best score: -3
+Generation 10. best score: -2
+Mean: 27.5; Std: 15.22607412740833
+Time mean: 0.4553579568862915; Std: 0.24756351616989455
+
+Parameters: [ pop_size=10, p_mutation=0.03, p_crossover=0.9, selection_pressure=10 ]
+
+Experiment 0:
+Generation 0. best score: -14
+Generation 10. best score: -8
+Generation 20. best score: -5
+
+Experiment 1:
+Generation 0. best score: -9
+Generation 10. best score: -3
+Generation 20. best score: -2
+Generation 30. best score: -2
+
+Experiment 2:
+Generation 0. best score: -6
+Generation 10. best score: -2
+
+Experiment 3:
+Generation 0. best score: -7
+Generation 10. best score: -4
+Generation 20. best score: -4
+Generation 30. best score: -4
+Generation 40. best score: -4
+
+Experiment 4:
+Generation 0. best score: -2
+Generation 10. best score: -2
+Generation 20. best score: -2
+Generation 30. best score: -2
+
+Experiment 5:
+Generation 0. best score: -6
+Generation 10. best score: -4
+Generation 20. best score: -4
+Generation 30. best score: -4
+
+Experiment 6:
+Generation 0. best score: -5
+Generation 10. best score: -4
+Generation 20. best score: -4
+Generation 30. best score: -2
+Generation 40. best score: -2
+
+Experiment 7:
+Generation 0. best score: -9
+Generation 10. best score: -4
+
+Experiment 8:
+Generation 0. best score: -5
+Generation 10. best score: -5
+Generation 20. best score: -5
+
+Experiment 9:
+Generation 0. best score: -14
+Generation 10. best score: -6
+Generation 20. best score: -2
+Mean: 29.45; Std: 12.983694227355851
+Time mean: 0.4853362560272217; Std: 0.20792784399872713
+
+Parameters: [ pop_size=10, p_mutation=0.03, p_crossover=1.0, selection_pressure=5 ]
+
+Experiment 0:
+Generation 0. best score: -8
+Generation 10. best score: -2
+Generation 20. best score: -2
+Generation 30. best score: -2
+Generation 40. best score: -2
+
+Experiment 1:
+Generation 0. best score: -8
+Generation 10. best score: -4
+Generation 20. best score: -2
+
+Experiment 2:
+Generation 0. best score: -9
+Generation 10. best score: -2
+Generation 20. best score: -2
+
+Experiment 3:
+Generation 0. best score: -7
+Generation 10. best score: -5
+Generation 20. best score: -2
+
+Experiment 4:
+Generation 0. best score: -12
+Generation 10. best score: -2
+
+Experiment 5:
+Generation 0. best score: -8
+Generation 10. best score: -2
+
+Experiment 6:
+Generation 0. best score: -2
+
+Experiment 7:
+Generation 0. best score: -9
+Generation 10. best score: -4
+Generation 20. best score: -4
+Generation 30. best score: -2
+
+Experiment 8:
+Generation 0. best score: -5
+Generation 10. best score: -2
+
+Experiment 9:
+Generation 0. best score: -14
+Generation 10. best score: -8
+Generation 20. best score: -8
+Generation 30. best score: -4
+Mean: 27.866666666666667; Std: 12.464386047464588
+Time mean: 0.46268719832102456; Std: 0.19867181277939358
+
+Parameters: [ pop_size=10, p_mutation=0.03, p_crossover=1.0, selection_pressure=10 ]
+
+Experiment 0:
+Generation 0. best score: -10
+Generation 10. best score: -4
+Generation 20. best score: -2
+Generation 30. best score: -2
+
+Experiment 1:
+Generation 0. best score: -6
+Generation 10. best score: -6
+Generation 20. best score: -2
+
+Experiment 2:
+Generation 0. best score: -11
+Generation 10. best score: -8
+Generation 20. best score: -7
+
+Experiment 3:
+Generation 0. best score: -11
+Generation 10. best score: -6
+Generation 20. best score: -2
+
+Experiment 4:
+Generation 0. best score: -10
+Generation 10. best score: -4
+Generation 20. best score: -4
+Generation 30. best score: -4
+Generation 40. best score: -4
+Generation 50. best score: -4
+
+Experiment 5:
+Generation 0. best score: -11
+Generation 10. best score: -9
+Generation 20. best score: -2
+
+Experiment 6:
+Generation 0. best score: -6
+Generation 10. best score: -2
+Generation 20. best score: -2
+Generation 30. best score: -2
+Generation 40. best score: -2
+Generation 50. best score: -2
+Generation 60. best score: -2
+Generation 70. best score: -2
+
+Experiment 7:
+Generation 0. best score: -13
+Generation 10. best score: -9
+Generation 20. best score: -4
+Generation 30. best score: -4
+Generation 40. best score: -2
+
+Experiment 8:
+Generation 0. best score: -6
+Generation 10. best score: -2
+
+Experiment 9:
+Generation 0. best score: -8
+Generation 10. best score: -6
+Generation 20. best score: -4
+Generation 30. best score: -2
+Generation 40. best score: -2
+Generation 50. best score: -2
+Mean: 30.6; Std: 15.107817640087992
+Time mean: 0.5098741769790649; Std: 0.24430111679002897
+
+Parameters: [ pop_size=10, p_mutation=0.07, p_crossover=0.9, selection_pressure=5 ]
+
+Experiment 0:
+Generation 0. best score: -9
+Generation 10. best score: -2
+
+Experiment 1:
+Generation 0. best score: -9
+Generation 10. best score: -3
+Generation 20. best score: -2
+
+Experiment 2:
+Generation 0. best score: -9
+Generation 10. best score: -3
+
+Experiment 3:
+Generation 0. best score: -8
+Generation 10. best score: -2
+Generation 20. best score: -2
+Generation 30. best score: -2
+
+Experiment 4:
+Generation 0. best score: -8
+Generation 10. best score: -4
+Generation 20. best score: -2
+
+Experiment 5:
+Generation 0. best score: -14
+Generation 10. best score: -3
+
+Experiment 6:
+Generation 0. best score: -7
+Generation 10. best score: -2
+
+Experiment 7:
+Generation 0. best score: -5
+Generation 10. best score: 0
+
+Experiment 8:
+Generation 0. best score: -8
+
+Experiment 9:
+Generation 0. best score: -5
+Generation 10. best score: -3
+Mean: 28.04; Std: 14.784106192745213
+Time mean: 0.47534985065460206; Std: 0.23532004162274997
+
+Parameters: [ pop_size=10, p_mutation=0.07, p_crossover=0.9, selection_pressure=10 ]
+
+Experiment 0:
+Generation 0. best score: -7
+Generation 10. best score: -4
+Generation 20. best score: -2
+
+Experiment 1:
+Generation 0. best score: -8
+Generation 10. best score: -2
+
+Experiment 2:
+Generation 0. best score: -9
+Generation 10. best score: -6
+Generation 20. best score: -4
+
+Experiment 3:
+Generation 0. best score: -7
+Generation 10. best score: -4
+Generation 20. best score: -2
+
+Experiment 4:
+Generation 0. best score: -13
+Generation 10. best score: -4
+
+Experiment 5:
+Generation 0. best score: -10
+Generation 10. best score: -2
+Generation 20. best score: -2
+
+Experiment 6:
+Generation 0. best score: -13
+Generation 10. best score: -5
+Generation 20. best score: -2
+
+Experiment 7:
+Generation 0. best score: -12
+Generation 10. best score: -5
+Generation 20. best score: -3
+
+Experiment 8:
+Generation 0. best score: -6
+Generation 10. best score: -2
+
+Experiment 9:
+Generation 0. best score: -8
+Mean: 26.833333333333332; Std: 14.026810486685086
+Time mean: 0.45978089173634845; Std: 0.222322488761872
+
+Parameters: [ pop_size=10, p_mutation=0.07, p_crossover=1.0, selection_pressure=5 ]
+
+Experiment 0:
+Generation 0. best score: -9
+Generation 10. best score: -6
+
+Experiment 1:
+Generation 0. best score: -10
+Generation 10. best score: -6
+
+Experiment 2:
+Generation 0. best score: -11
+Generation 10. best score: -5
+Generation 20. best score: -2
+
+Experiment 3:
+Generation 0. best score: -10
+Generation 10. best score: -2
+
+Experiment 4:
+Generation 0. best score: -6
+Generation 10. best score: -3
+Generation 20. best score: -3
+Generation 30. best score: -3
+Generation 40. best score: -3
+
+Experiment 5:
+Generation 0. best score: -8
+Generation 10. best score: -2
+
+Experiment 6:
+Generation 0. best score: -11
+Generation 10. best score: -4
+
+Experiment 7:
+Generation 0. best score: -10
+Generation 10. best score: -4
+Generation 20. best score: -2
+
+Experiment 8:
+Generation 0. best score: -9
+
+Experiment 9:
+Generation 0. best score: -8
+Generation 10. best score: -4
+Mean: 25.87142857142857; Std: 13.573120740097277
+Time mean: 0.4496167455400739; Std: 0.21446084424248524
+
+Parameters: [ pop_size=10, p_mutation=0.07, p_crossover=1.0, selection_pressure=10 ]
+
+Experiment 0:
+Generation 0. best score: -7
+Generation 10. best score: 0
+
+Experiment 1:
+Generation 0. best score: -7
+Generation 10. best score: -2
+Generation 20. best score: -2
+
+Experiment 2:
+Generation 0. best score: -6
+Generation 10. best score: -2
+Generation 20. best score: -2
+
+Experiment 3:
+Generation 0. best score: -12
+Generation 10. best score: -2
+
+Experiment 4:
+Generation 0. best score: -12
+Generation 10. best score: -10
+Generation 20. best score: -4
+
+Experiment 5:
+Generation 0. best score: -8
+
+Experiment 6:
+Generation 0. best score: -12
+Generation 10. best score: -6
+Generation 20. best score: -2
+
+Experiment 7:
+Generation 0. best score: -10
+Generation 10. best score: -5
+Generation 20. best score: -5
+Generation 30. best score: -2
+Generation 40. best score: 0
+
+Experiment 8:
+Generation 0. best score: -4
+Generation 10. best score: -2
+
+Experiment 9:
+Generation 0. best score: -8
+Generation 10. best score: -4
+Mean: 25.1625; Std: 13.244003897632554
+Time mean: 0.44101046323776244; Std: 0.20992269639356548
+
+Parameters: [ pop_size=20, p_mutation=0.03, p_crossover=0.9, selection_pressure=5 ]
+
+Experiment 0:
+Generation 0. best score: -7
+Generation 10. best score: -5
+
+Experiment 1:
+Generation 0. best score: -7
+
+Experiment 2:
+Generation 0. best score: -4
+Generation 10. best score: -2
+
+Experiment 3:
+Generation 0. best score: -5
+Generation 10. best score: -2
+Generation 20. best score: -2
+
+Experiment 4:
+Generation 0. best score: -7
+Generation 10. best score: -4
+Generation 20. best score: -2
+
+Experiment 5:
+Generation 0. best score: -5
+Generation 10. best score: -4
+
+Experiment 6:
+Generation 0. best score: -11
+Generation 10. best score: -6
+Generation 20. best score: -2
+
+Experiment 7:
+Generation 0. best score: -6
+
+Experiment 8:
+Generation 0. best score: -7
+Generation 10. best score: 0
+
+Experiment 9:
+Generation 0. best score: -9
+Generation 10. best score: -4
+Mean: 24.266666666666666; Std: 12.910060531281342
+Time mean: 0.4331169499291314; Std: 0.2021927273835975
+
+Parameters: [ pop_size=20, p_mutation=0.03, p_crossover=0.9, selection_pressure=10 ]
+
+Experiment 0:
+Generation 0. best score: -8
+Generation 10. best score: -3
+
+Experiment 1:
+Generation 0. best score: -6
+Generation 10. best score: -6
+Generation 20. best score: 0
+
+Experiment 2:
+Generation 0. best score: -10
+Generation 10. best score: -5
+Generation 20. best score: -2
+
+Experiment 3:
+Generation 0. best score: -7
+Generation 10. best score: -4
+Generation 20. best score: -2
+
+Experiment 4:
+Generation 0. best score: -10
+Generation 10. best score: -5
+Generation 20. best score: 0
+
+Experiment 5:
+Generation 0. best score: -10
+Generation 10. best score: -7
+Generation 20. best score: -2
+
+Experiment 6:
+Generation 0. best score: -7
+Generation 10. best score: -5
+Generation 20. best score: -2
+Generation 30. best score: -2
+Generation 40. best score: -2
+
+Experiment 7:
+Generation 0. best score: -10
+
+Experiment 8:
+Generation 0. best score: -8
+Generation 10. best score: -4
+
+Experiment 9:
+Generation 0. best score: -8
+Generation 10. best score: -4
+Mean: 24.07; Std: 12.538631214262292
+Time mean: 0.4369570517539978; Std: 0.19844064753203386
+
+Parameters: [ pop_size=20, p_mutation=0.03, p_crossover=1.0, selection_pressure=5 ]
+
+Experiment 0:
+Generation 0. best score: -9
+Generation 10. best score: -6
+Generation 20. best score: -4
+
+Experiment 1:
+Generation 0. best score: -4
+Generation 10. best score: -2
+
+Experiment 2:
+Generation 0. best score: -9
+Generation 10. best score: -3
+
+Experiment 3:
+Generation 0. best score: -11
+Generation 10. best score: -5
+Generation 20. best score: -5
+Generation 30. best score: -2
+Generation 40. best score: -2
+Generation 50. best score: -2
+Generation 60. best score: -2
+
+Experiment 4:
+Generation 0. best score: -5
+Generation 10. best score: -3
+
+Experiment 5:
+Generation 0. best score: -8
+Generation 10. best score: -4
+Generation 20. best score: -2
+
+Experiment 6:
+Generation 0. best score: -7
+
+Experiment 7:
+Generation 0. best score: -7
+Generation 10. best score: -2
+
+Experiment 8:
+Generation 0. best score: -10
+Generation 10. best score: -4
+Generation 20. best score: -2
+Generation 30. best score: -2
+
+Experiment 9:
+Generation 0. best score: -7
+Generation 10. best score: -2
+Mean: 24.0; Std: 12.785456186943698
+Time mean: 0.4424997958269986; Std: 0.20685681012735388
+
+Parameters: [ pop_size=20, p_mutation=0.03, p_crossover=1.0, selection_pressure=10 ]
+
+Experiment 0:
+Generation 0. best score: -7
+Generation 10. best score: -2
+
+Experiment 1:
+Generation 0. best score: -4
+Generation 10. best score: -2
+
+Experiment 2:
+Generation 0. best score: -4
+Generation 10. best score: -2
+
+Experiment 3:
+Generation 0. best score: -6
+Generation 10. best score: -4
+Generation 20. best score: -2
+
+Experiment 4:
+Generation 0. best score: -6
+Generation 10. best score: -5
+
+Experiment 5:
+Generation 0. best score: -5
+Generation 10. best score: -5
+Generation 20. best score: -2
+Generation 30. best score: -2
+
+Experiment 6:
+Generation 0. best score: -9
+Generation 10. best score: -5
+Generation 20. best score: -3
+
+Experiment 7:
+Generation 0. best score: -7
+Generation 10. best score: -4
+
+Experiment 8:
+Generation 0. best score: -9
+Generation 10. best score: -4
+
+Experiment 9:
+Generation 0. best score: -4
+Generation 10. best score: -2
+Generation 20. best score: -2
+Mean: 23.733333333333334; Std: 12.38373379660182
+Time mean: 0.44354671041170757; Std: 0.20035625201786578
+
+Parameters: [ pop_size=20, p_mutation=0.07, p_crossover=0.9, selection_pressure=5 ]
+
+Experiment 0:
+Generation 0. best score: -4
+Generation 10. best score: -2
+
+Experiment 1:
+Generation 0. best score: -9
+Generation 10. best score: -4
+
+Experiment 2:
+Generation 0. best score: -6
+Generation 10. best score: 0
+
+Experiment 3:
+Generation 0. best score: -9
+Generation 10. best score: -2
+
+Experiment 4:
+Generation 0. best score: -8
+Generation 10. best score: -4
+Generation 20. best score: -2
+
+Experiment 5:
+Generation 0. best score: -8
+Generation 10. best score: -2
+
+Experiment 6:
+Generation 0. best score: -10
+Generation 10. best score: -5
+Generation 20. best score: -3
+Generation 30. best score: -2
+
+Experiment 7:
+Generation 0. best score: -9
+Generation 10. best score: -2
+Generation 20. best score: -2
+
+Experiment 8:
+Generation 0. best score: -9
+Generation 10. best score: -4
+
+Experiment 9:
+Generation 0. best score: -8
+Generation 10. best score: -4
+Mean: 23.415384615384614; Std: 12.10918327627285
+Time mean: 0.44690120953779955; Std: 0.19765936103656467
+
+Parameters: [ pop_size=20, p_mutation=0.07, p_crossover=0.9, selection_pressure=10 ]
+
+Experiment 0:
+Generation 0. best score: -6
+Generation 10. best score: -2
+
+Experiment 1:
+Generation 0. best score: -11
+Generation 10. best score: -6
+Generation 20. best score: -4
+
+Experiment 2:
+Generation 0. best score: -9
+Generation 10. best score: -4
+Generation 20. best score: -2
+
+Experiment 3:
+Generation 0. best score: -5
+
+Experiment 4:
+Generation 0. best score: -6
+Generation 10. best score: 0
+
+Experiment 5:
+Generation 0. best score: -6
+Generation 10. best score: -2
+Generation 20. best score: -2
+
+Experiment 6:
+Generation 0. best score: -8
+
+Experiment 7:
+Generation 0. best score: -8
+Generation 10. best score: -2
+
+Experiment 8:
+Generation 0. best score: -8
+Generation 10. best score: -2
+Generation 20. best score: -2
+
+Experiment 9:
+Generation 0. best score: -7
+Generation 10. best score: -2
+Generation 20. best score: 0
+Mean: 23.042857142857144; Std: 11.923540242809224
+Time mean: 0.4477793983050755; Std: 0.19551339149641855
+
+Parameters: [ pop_size=20, p_mutation=0.07, p_crossover=1.0, selection_pressure=5 ]
+
+Experiment 0:
+Generation 0. best score: -6
+Generation 10. best score: -2
+
+Experiment 1:
+Generation 0. best score: -8
+Generation 10. best score: -5
+
+Experiment 2:
+Generation 0. best score: -9
+Generation 10. best score: -4
+
+Experiment 3:
+Generation 0. best score: -7
+Generation 10. best score: -2
+
+Experiment 4:
+Generation 0. best score: -8
+Generation 10. best score: -4
+Generation 20. best score: -4
+
+Experiment 5:
+Generation 0. best score: -10
+Generation 10. best score: -6
+Generation 20. best score: -2
+
+Experiment 6:
+Generation 0. best score: -7
+Generation 10. best score: -2
+
+Experiment 7:
+Generation 0. best score: -7
+Generation 10. best score: -4
+Generation 20. best score: 0
+
+Experiment 8:
+Generation 0. best score: -8
+Generation 10. best score: -3
+
+Experiment 9:
+Generation 0. best score: -10
+Generation 10. best score: -4
+Generation 20. best score: -2
+Mean: 22.766666666666666; Std: 11.613124181022428
+Time mean: 0.4495919211705526; Std: 0.19034449399574194
+
+Parameters: [ pop_size=20, p_mutation=0.07, p_crossover=1.0, selection_pressure=10 ]
+
+Experiment 0:
+Generation 0. best score: -8
+Generation 10. best score: -5
+Generation 20. best score: -2
+
+Experiment 1:
+Generation 0. best score: -10
+Generation 10. best score: 0
+
+Experiment 2:
+Generation 0. best score: -11
+Generation 10. best score: -6
+Generation 20. best score: -2
+
+Experiment 3:
+Generation 0. best score: -8
+
+Experiment 4:
+Generation 0. best score: -8
+Generation 10. best score: -6
+Generation 20. best score: -2
+
+Experiment 5:
+Generation 0. best score: -7
+Generation 10. best score: -5
+
+Experiment 6:
+Generation 0. best score: -6
+Generation 10. best score: -2
+
+Experiment 7:
+Generation 0. best score: -10
+Generation 10. best score: -4
+Generation 20. best score: -2
+
+Experiment 8:
+Generation 0. best score: -6
+
+Experiment 9:
+Generation 0. best score: -6
+Mean: 22.3625; Std: 11.472410163891174
+Time mean: 0.4475858837366104; Std: 0.1877682710796313
+
+Parameters: [ pop_size=30, p_mutation=0.03, p_crossover=0.9, selection_pressure=5 ]
+
+Experiment 0:
+Generation 0. best score: -8
+Generation 10. best score: -4
+
+Experiment 1:
+Generation 0. best score: -6
+Generation 10. best score: -3
+Generation 20. best score: -2
+Generation 30. best score: -2
+
+Experiment 2:
+Generation 0. best score: -8
+Generation 10. best score: -2
+Generation 20. best score: -2
+Generation 30. best score: -2
+
+Experiment 3:
+Generation 0. best score: -8
+Generation 10. best score: -2
+Generation 20. best score: 0
+
+Experiment 4:
+Generation 0. best score: -6
+Generation 10. best score: -2
+
+Experiment 5:
+Generation 0. best score: -9
+Generation 10. best score: -6
+Generation 20. best score: -2
+
+Experiment 6:
+Generation 0. best score: -9
+Generation 10. best score: -8
+Generation 20. best score: -2
+
+Experiment 7:
+Generation 0. best score: -7
+Generation 10. best score: -2
+Generation 20. best score: 0
+
+Experiment 8:
+Generation 0. best score: -9
+Generation 10. best score: -2
+Generation 20. best score: -2
+
+Experiment 9:
+Generation 0. best score: -8
+Generation 10. best score: -4
+Generation 20. best score: -2
+Generation 30. best score: -2
+Mean: 22.511764705882353; Std: 11.264563609705002
+Time mean: 0.45736570779015034; Std: 0.1892919929909924
+
+Parameters: [ pop_size=30, p_mutation=0.03, p_crossover=0.9, selection_pressure=10 ]
+
+Experiment 0:
+Generation 0. best score: -2
+Generation 10. best score: -4
+
+Experiment 1:
+Generation 0. best score: -9
+Generation 10. best score: -4
+
+Experiment 2:
+Generation 0. best score: -5
+Generation 10. best score: -2
+
+Experiment 3:
+Generation 0. best score: -7
+Generation 10. best score: -4
+
+Experiment 4:
+Generation 0. best score: -9
+Generation 10. best score: -6
+Generation 20. best score: -2
+
+Experiment 5:
+Generation 0. best score: -11
+Generation 10. best score: -4
+
+Experiment 6:
+Generation 0. best score: -8
+Generation 10. best score: -4
+Generation 20. best score: -2
+
+Experiment 7:
+Generation 0. best score: -8
+Generation 10. best score: -2
+Generation 20. best score: -2
+
+Experiment 8:
+Generation 0. best score: -8
+Generation 10. best score: -4
+Generation 20. best score: -2
+
+Experiment 9:
+Generation 0. best score: -10
+Generation 10. best score: -4
+Generation 20. best score: -2
+Generation 30. best score: 0
+Mean: 22.511111111111113; Std: 11.020290523747947
+Time mean: 0.4631404572063022; Std: 0.1871452875013217
+
+Parameters: [ pop_size=30, p_mutation=0.03, p_crossover=1.0, selection_pressure=5 ]
+
+Experiment 0:
+Generation 0. best score: -5
+Generation 10. best score: -2
+
+Experiment 1:
+Generation 0. best score: -10
+Generation 10. best score: -4
+Generation 20. best score: -2
+
+Experiment 2:
+Generation 0. best score: -7
+Generation 10. best score: -4
+
+Experiment 3:
+Generation 0. best score: -6
+Generation 10. best score: -4
+Generation 20. best score: -2
+
+Experiment 4:
+Generation 0. best score: -8
+Generation 10. best score: -4
+
+Experiment 5:
+Generation 0. best score: -8
+Generation 10. best score: -6
+Generation 20. best score: -4
+Generation 30. best score: -2
+
+Experiment 6:
+Generation 0. best score: -6
+Generation 10. best score: -2
+
+Experiment 7:
+Generation 0. best score: -7
+Generation 10. best score: -2
+
+Experiment 8:
+Generation 0. best score: -9
+Generation 10. best score: -3
+
+Experiment 9:
+Generation 0. best score: -9
+Generation 10. best score: -7
+Generation 20. best score: -2
+Mean: 22.42105263157895; Std: 10.895442421158068
+Time mean: 0.4673439063523945; Std: 0.18736567492131373
+
+Parameters: [ pop_size=30, p_mutation=0.03, p_crossover=1.0, selection_pressure=10 ]
+
+Experiment 0:
+Generation 0. best score: -6
+Generation 10. best score: -2
+
+Experiment 1:
+Generation 0. best score: -9
+Generation 10. best score: -5
+Generation 20. best score: -2
+
+Experiment 2:
+Generation 0. best score: -8
+Generation 10. best score: -4
+Generation 20. best score: -2
+Generation 30. best score: 0
+
+Experiment 3:
+Generation 0. best score: -8
+Generation 10. best score: -6
+Generation 20. best score: -2
+
+Experiment 4:
+Generation 0. best score: -7
+Generation 10. best score: -3
+Generation 20. best score: 0
+
+Experiment 5:
+Generation 0. best score: -7
+Generation 10. best score: -2
+Generation 20. best score: -2
+
+Experiment 6:
+Generation 0. best score: -8
+Generation 10. best score: -4
+
+Experiment 7:
+Generation 0. best score: -8
+Generation 10. best score: -4
+Generation 20. best score: -2
+Generation 30. best score: -2
+
+Experiment 8:
+Generation 0. best score: -2
+Generation 10. best score: 0
+
+Experiment 9:
+Generation 0. best score: -6
+Generation 10. best score: -2
+Mean: 22.475; Std: 10.738526657501449
+Time mean: 0.4736797511577606; Std: 0.18769228829274923
+
+Parameters: [ pop_size=30, p_mutation=0.07, p_crossover=0.9, selection_pressure=5 ]
+
+Experiment 0:
+Generation 0. best score: -9
+Generation 10. best score: -2
+
+Experiment 1:
+Generation 0. best score: -8
+Generation 10. best score: -5
+Generation 20. best score: -4
+
+Experiment 2:
+Generation 0. best score: -8
+Generation 10. best score: -4
+
+Experiment 3:
+Generation 0. best score: -5
+
+Experiment 4:
+Generation 0. best score: -6
+Generation 10. best score: -3
+
+Experiment 5:
+Generation 0. best score: -9
+Generation 10. best score: -3
+
+Experiment 6:
+Generation 0. best score: -8
+Generation 10. best score: -4
+Generation 20. best score: -2
+
+Experiment 7:
+Generation 0. best score: -9
+Generation 10. best score: -4
+Generation 20. best score: 0
+
+Experiment 8:
+Generation 0. best score: -5
+Generation 10. best score: -3
+
+Experiment 9:
+Generation 0. best score: -10
+Generation 10. best score: -5
+Mean: 22.30952380952381; Std: 10.56057508773272
+Time mean: 0.47946815831320627; Std: 0.18728132748767853
+
+Parameters: [ pop_size=30, p_mutation=0.07, p_crossover=0.9, selection_pressure=10 ]
+
+Experiment 0:
+Generation 0. best score: -9
+Generation 10. best score: -4
+Generation 20. best score: -2
+
+Experiment 1:
+Generation 0. best score: -5
+Generation 10. best score: -4
+
+Experiment 2:
+Generation 0. best score: -7
+Generation 10. best score: -2
+
+Experiment 3:
+Generation 0. best score: -6
+Generation 10. best score: -4
+Generation 20. best score: -2
+
+Experiment 4:
+Generation 0. best score: -7
+Generation 10. best score: -2
+
+Experiment 5:
+Generation 0. best score: -4
+Generation 10. best score: 0
+
+Experiment 6:
+Generation 0. best score: -6
+
+Experiment 7:
+Generation 0. best score: -5
+Generation 10. best score: -2
+Generation 20. best score: -2
+
+Experiment 8:
+Generation 0. best score: -8
+Generation 10. best score: -4
+Generation 20. best score: -2
+
+Experiment 9:
+Generation 0. best score: -4
+Generation 10. best score: 0
+Mean: 22.081818181818182; Std: 10.428387511284411
+Time mean: 0.48242277990687976; Std: 0.18534507981479809
+
+Parameters: [ pop_size=30, p_mutation=0.07, p_crossover=1.0, selection_pressure=5 ]
+
+Experiment 0:
+Generation 0. best score: -7
+Generation 10. best score: -3
+
+Experiment 1:
+Generation 0. best score: -7
+Generation 10. best score: -4
+Generation 20. best score: -2
+
+Experiment 2:
+Generation 0. best score: -10
+Generation 10. best score: -4
+Generation 20. best score: -3
+
+Experiment 3:
+Generation 0. best score: -10
+Generation 10. best score: -4
+Generation 20. best score: 0
+
+Experiment 4:
+Generation 0. best score: -5
+Generation 10. best score: -2
+
+Experiment 5:
+Generation 0. best score: -7
+Generation 10. best score: -2
+
+Experiment 6:
+Generation 0. best score: -9
+Generation 10. best score: -2
+
+Experiment 7:
+Generation 0. best score: -9
+Generation 10. best score: -2
+
+Experiment 8:
+Generation 0. best score: -7
+Generation 10. best score: -2
+
+Experiment 9:
+Generation 0. best score: -8
+Generation 10. best score: -3
+Mean: 21.86521739130435; Std: 10.299620915381771
+Time mean: 0.4856759133546249; Std: 0.18391860427316498
+
+Parameters: [ pop_size=30, p_mutation=0.07, p_crossover=1.0, selection_pressure=10 ]
+
+Experiment 0:
+Generation 0. best score: -2
+Generation 10. best score: -2
+
+Experiment 1:
+Generation 0. best score: -6
+
+Experiment 2:
+Generation 0. best score: -9
+Generation 10. best score: -6
+Generation 20. best score: 0
+
+Experiment 3:
+Generation 0. best score: -6
+
+Experiment 4:
+Generation 0. best score: -7
+Generation 10. best score: -2
+
+Experiment 5:
+Generation 0. best score: -5
+
+Experiment 6:
+Generation 0. best score: -7
+Generation 10. best score: -3
+Generation 20. best score: 0
+
+Experiment 7:
+Generation 0. best score: -6
+Generation 10. best score: -6
+Generation 20. best score: -2
+
+Experiment 8:
+Generation 0. best score: -11
+Generation 10. best score: -2
+
+Experiment 9:
+Generation 0. best score: -6
+Generation 10. best score: -5
+Generation 20. best score: 0
+Mean: 21.604166666666668; Std: 10.225367551441071
+Time mean: 0.4864262213309606; Std: 0.1826969652438367
+
+------------=== END OF EXPERIMENTS ===------------
+-	Ended on:  2020-12-24 20:34:41.218133  -
+--------------------------------------------------

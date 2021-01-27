@@ -1,0 +1,2988 @@
+Reading input from file: inputs/n8_30/n8_30_30empty.txt 
+
+1: 	2,1 [color_value:2, group_value: 1]
+2: 	0,1 [color_value:0, group_value: 1]
+3: 	8,1 [color_value:8, group_value: 1]
+4: 	3,1 [color_value:3, group_value: 1]
+5: 	0,1 [color_value:0, group_value: 1]
+6: 	6,2 [color_value:6, group_value: 2]
+7: 	0,2 [color_value:0, group_value: 2]
+8: 	0,2 [color_value:0, group_value: 2]
+9: 	1,2 [color_value:1, group_value: 2]
+10: 	0,1 [color_value:0, group_value: 1]
+11: 	0,1 [color_value:0, group_value: 1]
+12: 	0,1 [color_value:0, group_value: 1]
+13: 	6,1 [color_value:6, group_value: 1]
+14: 	2,5 [color_value:2, group_value: 5]
+15: 	0,5 [color_value:0, group_value: 5]
+16: 	7,2 [color_value:7, group_value: 2]
+17: 	5,3 [color_value:5, group_value: 3]
+18: 	3,3 [color_value:3, group_value: 3]
+19: 	6,4 [color_value:6, group_value: 4]
+20: 	0,4 [color_value:0, group_value: 4]
+21: 	5,5 [color_value:5, group_value: 5]
+22: 	1,5 [color_value:1, group_value: 5]
+23: 	3,5 [color_value:3, group_value: 5]
+24: 	9,5 [color_value:9, group_value: 5]
+25: 	8,2 [color_value:8, group_value: 2]
+26: 	0,3 [color_value:0, group_value: 3]
+27: 	0,3 [color_value:0, group_value: 3]
+28: 	3,4 [color_value:3, group_value: 4]
+29: 	0,4 [color_value:0, group_value: 4]
+30: 	0,5 [color_value:0, group_value: 5]
+31: 	7,5 [color_value:7, group_value: 5]
+32: 	6,5 [color_value:6, group_value: 5]
+33: 	5,2 [color_value:5, group_value: 2]
+34: 	2,2 [color_value:2, group_value: 2]
+35: 	0,3 [color_value:0, group_value: 3]
+36: 	8,3 [color_value:8, group_value: 3]
+37: 	7,4 [color_value:7, group_value: 4]
+38: 	0,6 [color_value:0, group_value: 6]
+39: 	0,6 [color_value:0, group_value: 6]
+40: 	0,6 [color_value:0, group_value: 6]
+41: 	0,7 [color_value:0, group_value: 7]
+42: 	3,2 [color_value:3, group_value: 2]
+43: 	1,3 [color_value:1, group_value: 3]
+44: 	6,3 [color_value:6, group_value: 3]
+45: 	2,3 [color_value:2, group_value: 3]
+46: 	0,4 [color_value:0, group_value: 4]
+47: 	5,4 [color_value:5, group_value: 4]
+48: 	2,6 [color_value:2, group_value: 6]
+49: 	4,6 [color_value:4, group_value: 6]
+50: 	1,7 [color_value:1, group_value: 7]
+51: 	7,8 [color_value:7, group_value: 8]
+52: 	6,8 [color_value:6, group_value: 8]
+53: 	3,9 [color_value:3, group_value: 9]
+54: 	9,9 [color_value:9, group_value: 9]
+55: 	0,4 [color_value:0, group_value: 4]
+56: 	4,4 [color_value:4, group_value: 4]
+57: 	6,6 [color_value:6, group_value: 6]
+58: 	8,7 [color_value:8, group_value: 7]
+59: 	7,7 [color_value:7, group_value: 7]
+60: 	0,8 [color_value:0, group_value: 8]
+61: 	3,8 [color_value:3, group_value: 8]
+62: 	1,9 [color_value:1, group_value: 9]
+63: 	0,9 [color_value:0, group_value: 9]
+64: 	1,6 [color_value:1, group_value: 6]
+65: 	3,6 [color_value:3, group_value: 6]
+66: 	7,6 [color_value:7, group_value: 6]
+67: 	2,7 [color_value:2, group_value: 7]
+68: 	0,8 [color_value:0, group_value: 8]
+69: 	0,8 [color_value:0, group_value: 8]
+70: 	0,8 [color_value:0, group_value: 8]
+71: 	8,9 [color_value:8, group_value: 9]
+72: 	6,9 [color_value:6, group_value: 9]
+73: 	5,7 [color_value:5, group_value: 7]
+74: 	0,7 [color_value:0, group_value: 7]
+75: 	3,7 [color_value:3, group_value: 7]
+76: 	0,7 [color_value:0, group_value: 7]
+77: 	0,8 [color_value:0, group_value: 8]
+78: 	0,8 [color_value:0, group_value: 8]
+79: 	4,9 [color_value:4, group_value: 9]
+80: 	0,9 [color_value:0, group_value: 9]
+81: 	7,9 [color_value:7, group_value: 9]
+Number of zeros (empty cells) in board: 30
+
+Experimenting on the following Nonomino board:
+2 0 8 3 0 6 0 0 1 
+0 0 0 6 2 0 7 5 3 
+6 0 5 1 3 9 8 0 0 
+3 0 0 7 6 5 2 0 8 
+7 0 0 0 0 3 1 6 2 
+0 5 2 4 1 7 6 3 9 
+0 4 6 8 7 0 3 1 0 
+1 3 7 2 0 0 0 8 6 
+5 0 3 0 0 0 4 0 7 
+
+---------=== BEGINNING OF EXPERIMENTS ===---------
+-	Started on:  2020-12-24 20:22:31.650266  -
+--------------------------------------------------
+max_gen = 10000
+
+Parameters: [ pop_size=10, p_mutation=0.03, p_crossover=0.9, selection_pressure=5 ]
+
+Experiment 0:
+Generation 0. best score: -20
+Generation 10. best score: -8
+Generation 20. best score: -6
+Generation 30. best score: -6
+Generation 40. best score: -6
+Generation 50. best score: -6
+Generation 60. best score: -4
+Generation 70. best score: -3
+Generation 80. best score: -3
+Generation 90. best score: -2
+
+Experiment 1:
+Generation 0. best score: -16
+Generation 10. best score: -14
+Generation 20. best score: -13
+Generation 30. best score: -7
+Generation 40. best score: -7
+Generation 50. best score: -2
+
+Experiment 2:
+Generation 0. best score: -19
+Generation 10. best score: -16
+Generation 20. best score: -14
+Generation 30. best score: -12
+Generation 40. best score: -11
+Generation 50. best score: -9
+Generation 60. best score: -6
+Generation 70. best score: -6
+Generation 80. best score: -6
+Generation 90. best score: -4
+Generation 100. best score: -4
+Generation 110. best score: -3
+Generation 120. best score: -3
+Generation 130. best score: -3
+Generation 140. best score: -3
+Generation 150. best score: -3
+Generation 160. best score: -2
+Generation 170. best score: -2
+Generation 180. best score: -2
+
+Experiment 3:
+Generation 0. best score: -22
+Generation 10. best score: -13
+Generation 20. best score: -12
+Generation 30. best score: -9
+Generation 40. best score: -6
+
+Experiment 4:
+Generation 0. best score: -17
+Generation 10. best score: -11
+Generation 20. best score: -8
+Generation 30. best score: -6
+Generation 40. best score: -2
+Generation 50. best score: -2
+Generation 60. best score: -2
+Generation 70. best score: -2
+
+Experiment 5:
+Generation 0. best score: -17
+Generation 10. best score: -11
+Generation 20. best score: -8
+Generation 30. best score: -5
+Generation 40. best score: -2
+Generation 50. best score: -2
+Generation 60. best score: 0
+
+Experiment 6:
+Generation 0. best score: -20
+Generation 10. best score: -15
+Generation 20. best score: -11
+Generation 30. best score: -10
+Generation 40. best score: -7
+Generation 50. best score: -5
+Generation 60. best score: -3
+Generation 70. best score: -2
+
+Experiment 7:
+Generation 0. best score: -16
+Generation 10. best score: -11
+Generation 20. best score: -9
+Generation 30. best score: -9
+Generation 40. best score: -4
+Generation 50. best score: -4
+
+Experiment 8:
+Generation 0. best score: -22
+Generation 10. best score: -14
+Generation 20. best score: -9
+Generation 30. best score: -4
+Generation 40. best score: -2
+Generation 50. best score: -2
+Generation 60. best score: -2
+Generation 70. best score: -2
+Generation 80. best score: -2
+Generation 90. best score: -2
+Generation 100. best score: -2
+Generation 110. best score: -2
+Generation 120. best score: -2
+Generation 130. best score: -2
+Generation 140. best score: -2
+Generation 150. best score: -2
+Generation 160. best score: -2
+Generation 170. best score: -2
+Generation 180. best score: -2
+Generation 190. best score: -2
+Generation 200. best score: -2
+Generation 210. best score: -2
+Generation 220. best score: -2
+Generation 230. best score: -2
+Generation 240. best score: -2
+Generation 250. best score: -2
+Generation 260. best score: -2
+
+Experiment 9:
+Generation 0. best score: -18
+Generation 10. best score: -12
+Generation 20. best score: -9
+Generation 30. best score: -7
+Generation 40. best score: -5
+Generation 50. best score: -2
+Generation 60. best score: -2
+Mean: 98.6; Std: 71.96171821801428
+Time mean: 1.5805147886276245; Std: 1.1255513058538216
+
+Parameters: [ pop_size=10, p_mutation=0.03, p_crossover=0.9, selection_pressure=10 ]
+
+Experiment 0:
+Generation 0. best score: -18
+Generation 10. best score: -6
+Generation 20. best score: -3
+Generation 30. best score: -3
+Generation 40. best score: -2
+
+Experiment 1:
+Generation 0. best score: -22
+Generation 10. best score: -14
+Generation 20. best score: -12
+Generation 30. best score: -6
+Generation 40. best score: 0
+
+Experiment 2:
+Generation 0. best score: -18
+Generation 10. best score: -15
+Generation 20. best score: -6
+Generation 30. best score: -4
+Generation 40. best score: -2
+Generation 50. best score: -2
+
+Experiment 3:
+Generation 0. best score: -16
+Generation 10. best score: -12
+Generation 20. best score: -8
+Generation 30. best score: -4
+
+Experiment 4:
+Generation 0. best score: -15
+Generation 10. best score: -11
+Generation 20. best score: -9
+Generation 30. best score: -5
+Generation 40. best score: -4
+Generation 50. best score: -2
+Generation 60. best score: -2
+
+Experiment 5:
+Generation 0. best score: -22
+Generation 10. best score: -14
+Generation 20. best score: -11
+Generation 30. best score: -8
+Generation 40. best score: -8
+Generation 50. best score: -8
+Generation 60. best score: -8
+Generation 70. best score: -6
+Generation 80. best score: -2
+
+Experiment 6:
+Generation 0. best score: -14
+Generation 10. best score: -12
+Generation 20. best score: -7
+Generation 30. best score: -5
+Generation 40. best score: -4
+Generation 50. best score: -4
+Generation 60. best score: -2
+Generation 70. best score: -2
+Generation 80. best score: -2
+Generation 90. best score: -2
+Generation 100. best score: -2
+Generation 110. best score: -2
+Generation 120. best score: -2
+
+Experiment 7:
+Generation 0. best score: -16
+Generation 10. best score: -8
+Generation 20. best score: -6
+Generation 30. best score: -4
+Generation 40. best score: -4
+Generation 50. best score: -2
+Generation 60. best score: -2
+Generation 70. best score: -2
+Generation 80. best score: -2
+
+Experiment 8:
+Generation 0. best score: -19
+Generation 10. best score: -12
+Generation 20. best score: -10
+Generation 30. best score: -9
+Generation 40. best score: -5
+Generation 50. best score: -4
+Generation 60. best score: -3
+Generation 70. best score: -3
+
+Experiment 9:
+Generation 0. best score: -19
+Generation 10. best score: -14
+Generation 20. best score: -12
+Generation 30. best score: -8
+Generation 40. best score: -7
+Generation 50. best score: -5
+Generation 60. best score: -5
+Generation 70. best score: -5
+Generation 80. best score: -5
+Generation 90. best score: -4
+Generation 100. best score: -4
+Generation 110. best score: -2
+Generation 120. best score: -2
+Generation 130. best score: -2
+Generation 140. best score: -2
+Generation 150. best score: -2
+Generation 160. best score: -2
+Generation 170. best score: -2
+Generation 180. best score: -2
+Generation 190. best score: -2
+Generation 200. best score: -2
+Generation 210. best score: -2
+Generation 220. best score: -2
+Mean: 91.65; Std: 63.218314301774086
+Time mean: 1.4707144141197204; Std: 0.9885954740412236
+
+Parameters: [ pop_size=10, p_mutation=0.03, p_crossover=1.0, selection_pressure=5 ]
+
+Experiment 0:
+Generation 0. best score: -18
+Generation 10. best score: -14
+Generation 20. best score: -7
+Generation 30. best score: -4
+Generation 40. best score: -4
+
+Experiment 1:
+Generation 0. best score: -21
+Generation 10. best score: -14
+Generation 20. best score: -11
+Generation 30. best score: -7
+Generation 40. best score: -5
+Generation 50. best score: -5
+Generation 60. best score: -5
+Generation 70. best score: -5
+Generation 80. best score: -4
+Generation 90. best score: -3
+Generation 100. best score: 0
+
+Experiment 2:
+Generation 0. best score: -18
+Generation 10. best score: -16
+Generation 20. best score: -13
+Generation 30. best score: -11
+Generation 40. best score: -8
+Generation 50. best score: -6
+Generation 60. best score: -4
+Generation 70. best score: -2
+Generation 80. best score: -2
+
+Experiment 3:
+Generation 0. best score: -17
+Generation 10. best score: -13
+Generation 20. best score: -5
+Generation 30. best score: -3
+Generation 40. best score: -2
+
+Experiment 4:
+Generation 0. best score: -19
+Generation 10. best score: -10
+Generation 20. best score: -8
+Generation 30. best score: -6
+Generation 40. best score: -4
+Generation 50. best score: -2
+
+Experiment 5:
+Generation 0. best score: -17
+Generation 10. best score: -13
+Generation 20. best score: -10
+Generation 30. best score: -7
+Generation 40. best score: -5
+Generation 50. best score: -4
+Generation 60. best score: -2
+Generation 70. best score: -2
+Generation 80. best score: -2
+Generation 90. best score: -2
+Generation 100. best score: -2
+Generation 110. best score: -2
+Generation 120. best score: -2
+Generation 130. best score: -2
+Generation 140. best score: -2
+Generation 150. best score: -2
+Generation 160. best score: -2
+Generation 170. best score: -2
+Generation 180. best score: -2
+Generation 190. best score: -2
+Generation 200. best score: -2
+Generation 210. best score: -2
+
+Experiment 6:
+Generation 0. best score: -20
+Generation 10. best score: -14
+Generation 20. best score: -10
+Generation 30. best score: -8
+Generation 40. best score: -6
+Generation 50. best score: -5
+Generation 60. best score: -3
+Generation 70. best score: -3
+Generation 80. best score: -3
+Generation 90. best score: -3
+Generation 100. best score: -3
+Generation 110. best score: -3
+Generation 120. best score: -3
+Generation 130. best score: -3
+Generation 140. best score: -2
+Generation 150. best score: -2
+
+Experiment 7:
+Generation 0. best score: -18
+Generation 10. best score: -8
+Generation 20. best score: -7
+Generation 30. best score: -4
+Generation 40. best score: -4
+Generation 50. best score: -3
+Generation 60. best score: -3
+Generation 70. best score: -3
+Generation 80. best score: -3
+
+Experiment 8:
+Generation 0. best score: -20
+Generation 10. best score: -17
+Generation 20. best score: -13
+Generation 30. best score: -8
+Generation 40. best score: -7
+Generation 50. best score: -4
+Generation 60. best score: -2
+Generation 70. best score: -2
+
+Experiment 9:
+Generation 0. best score: -18
+Generation 10. best score: -11
+Generation 20. best score: -6
+Generation 30. best score: -4
+Generation 40. best score: -2
+Mean: 91.46666666666667; Std: 59.81796139745258
+Time mean: 1.4759413321812949; Std: 0.9382786395146167
+
+Parameters: [ pop_size=10, p_mutation=0.03, p_crossover=1.0, selection_pressure=10 ]
+
+Experiment 0:
+Generation 0. best score: -20
+Generation 10. best score: -12
+Generation 20. best score: -9
+Generation 30. best score: -7
+Generation 40. best score: -3
+
+Experiment 1:
+Generation 0. best score: -19
+Generation 10. best score: -15
+Generation 20. best score: -14
+Generation 30. best score: -9
+Generation 40. best score: -5
+Generation 50. best score: 0
+
+Experiment 2:
+Generation 0. best score: -23
+Generation 10. best score: -14
+Generation 20. best score: -9
+Generation 30. best score: -7
+Generation 40. best score: -4
+Generation 50. best score: -2
+
+Experiment 3:
+Generation 0. best score: -21
+Generation 10. best score: -13
+Generation 20. best score: -8
+Generation 30. best score: -4
+
+Experiment 4:
+Generation 0. best score: -15
+Generation 10. best score: -6
+Generation 20. best score: -6
+Generation 30. best score: -5
+Generation 40. best score: -2
+Generation 50. best score: -2
+Generation 60. best score: -2
+Generation 70. best score: -2
+Generation 80. best score: -2
+Generation 90. best score: -2
+
+Experiment 5:
+Generation 0. best score: -21
+Generation 10. best score: -13
+Generation 20. best score: -10
+Generation 30. best score: -7
+Generation 40. best score: -2
+
+Experiment 6:
+Generation 0. best score: -19
+Generation 10. best score: -14
+Generation 20. best score: -7
+Generation 30. best score: -4
+Generation 40. best score: -2
+Generation 50. best score: -2
+Generation 60. best score: -2
+Generation 70. best score: -2
+Generation 80. best score: -2
+Generation 90. best score: -2
+
+Experiment 7:
+Generation 0. best score: -17
+Generation 10. best score: -13
+Generation 20. best score: -6
+Generation 30. best score: -2
+
+Experiment 8:
+Generation 0. best score: -16
+Generation 10. best score: -10
+Generation 20. best score: -6
+Generation 30. best score: -4
+
+Experiment 9:
+Generation 0. best score: -20
+Generation 10. best score: -15
+Generation 20. best score: -12
+Generation 30. best score: -8
+Generation 40. best score: -4
+Generation 50. best score: -2
+Generation 60. best score: -2
+Generation 70. best score: -2
+Generation 80. best score: -2
+Generation 90. best score: -2
+Generation 100. best score: -2
+Generation 110. best score: -2
+Generation 120. best score: -2
+Generation 130. best score: -2
+Mean: 84.475; Std: 55.40063292242363
+Time mean: 1.3691861391067506; Std: 0.8690591074189064
+
+Parameters: [ pop_size=10, p_mutation=0.07, p_crossover=0.9, selection_pressure=5 ]
+
+Experiment 0:
+Generation 0. best score: -23
+Generation 10. best score: -13
+Generation 20. best score: -8
+Generation 30. best score: -6
+Generation 40. best score: -4
+Generation 50. best score: -4
+Generation 60. best score: -4
+
+Experiment 1:
+Generation 0. best score: -21
+Generation 10. best score: -14
+Generation 20. best score: -11
+Generation 30. best score: -10
+Generation 40. best score: -10
+Generation 50. best score: -6
+Generation 60. best score: -2
+Generation 70. best score: -2
+Generation 80. best score: -2
+Generation 90. best score: -2
+
+Experiment 2:
+Generation 0. best score: -12
+Generation 10. best score: -4
+Generation 20. best score: -4
+Generation 30. best score: -2
+Generation 40. best score: -4
+
+Experiment 3:
+Generation 0. best score: -20
+Generation 10. best score: -12
+Generation 20. best score: -11
+Generation 30. best score: -8
+Generation 40. best score: -6
+Generation 50. best score: -3
+Generation 60. best score: -3
+
+Experiment 4:
+Generation 0. best score: -17
+Generation 10. best score: -10
+Generation 20. best score: -8
+Generation 30. best score: -7
+Generation 40. best score: -5
+Generation 50. best score: -2
+Generation 60. best score: -2
+Generation 70. best score: -2
+
+Experiment 5:
+Generation 0. best score: -19
+Generation 10. best score: -15
+Generation 20. best score: -9
+Generation 30. best score: -3
+Generation 40. best score: -3
+Generation 50. best score: -3
+Generation 60. best score: -2
+Generation 70. best score: -2
+
+Experiment 6:
+Generation 0. best score: -22
+Generation 10. best score: -15
+Generation 20. best score: -13
+Generation 30. best score: -10
+Generation 40. best score: -9
+Generation 50. best score: -7
+Generation 60. best score: -6
+Generation 70. best score: -6
+Generation 80. best score: -2
+Generation 90. best score: -3
+Generation 100. best score: -3
+
+Experiment 7:
+Generation 0. best score: -19
+Generation 10. best score: -13
+Generation 20. best score: -7
+Generation 30. best score: -7
+Generation 40. best score: -6
+Generation 50. best score: -7
+Generation 60. best score: -7
+Generation 70. best score: -7
+Generation 80. best score: -7
+Generation 90. best score: -7
+Generation 100. best score: -4
+Generation 110. best score: -4
+Generation 120. best score: -4
+Generation 130. best score: -4
+Generation 140. best score: -2
+Generation 150. best score: -2
+
+Experiment 8:
+Generation 0. best score: -16
+Generation 10. best score: -13
+Generation 20. best score: -8
+Generation 30. best score: -9
+Generation 40. best score: -8
+Generation 50. best score: -7
+Generation 60. best score: -4
+Generation 70. best score: -2
+Generation 80. best score: -2
+Generation 90. best score: -2
+
+Experiment 9:
+Generation 0. best score: -19
+Generation 10. best score: -13
+Generation 20. best score: -10
+Generation 30. best score: -5
+Generation 40. best score: -2
+Generation 50. best score: -2
+Mean: 84.38; Std: 51.15996920424788
+Time mean: 1.4050031089782715; Std: 0.813689377199261
+
+Parameters: [ pop_size=10, p_mutation=0.07, p_crossover=0.9, selection_pressure=10 ]
+
+Experiment 0:
+Generation 0. best score: -17
+Generation 10. best score: -11
+Generation 20. best score: -7
+Generation 30. best score: -5
+Generation 40. best score: -5
+Generation 50. best score: -4
+Generation 60. best score: -2
+Generation 70. best score: -2
+Generation 80. best score: 0
+
+Experiment 1:
+Generation 0. best score: -17
+Generation 10. best score: -13
+Generation 20. best score: -10
+Generation 30. best score: -7
+Generation 40. best score: 0
+
+Experiment 2:
+Generation 0. best score: -18
+Generation 10. best score: -12
+Generation 20. best score: -10
+Generation 30. best score: -7
+Generation 40. best score: -2
+Generation 50. best score: -3
+Generation 60. best score: -2
+Generation 70. best score: -2
+Generation 80. best score: -2
+
+Experiment 3:
+Generation 0. best score: -16
+Generation 10. best score: -8
+Generation 20. best score: -4
+Generation 30. best score: -4
+Generation 40. best score: -3
+Generation 50. best score: -3
+Generation 60. best score: -3
+
+Experiment 4:
+Generation 0. best score: -18
+Generation 10. best score: -15
+Generation 20. best score: -10
+Generation 30. best score: -8
+Generation 40. best score: -7
+Generation 50. best score: -3
+Generation 60. best score: -4
+Generation 70. best score: -3
+Generation 80. best score: -2
+Generation 90. best score: -2
+
+Experiment 5:
+Generation 0. best score: -18
+Generation 10. best score: -11
+Generation 20. best score: -9
+Generation 30. best score: -7
+Generation 40. best score: -6
+Generation 50. best score: -7
+Generation 60. best score: -5
+Generation 70. best score: -2
+Generation 80. best score: -2
+Generation 90. best score: -3
+Generation 100. best score: -3
+Generation 110. best score: -2
+
+Experiment 6:
+Generation 0. best score: -17
+Generation 10. best score: -11
+Generation 20. best score: -7
+Generation 30. best score: -8
+Generation 40. best score: -8
+Generation 50. best score: -5
+
+Experiment 7:
+Generation 0. best score: -18
+Generation 10. best score: -11
+Generation 20. best score: -9
+Generation 30. best score: -6
+Generation 40. best score: -2
+Generation 50. best score: -2
+
+Experiment 8:
+Generation 0. best score: -14
+Generation 10. best score: -9
+Generation 20. best score: -7
+Generation 30. best score: -4
+
+Experiment 9:
+Generation 0. best score: -18
+Generation 10. best score: -14
+Generation 20. best score: -10
+Generation 30. best score: -6
+Generation 40. best score: -3
+Mean: 81.7; Std: 48.02022878830709
+Time mean: 1.3827166438102723; Std: 0.7638131836719704
+
+Parameters: [ pop_size=10, p_mutation=0.07, p_crossover=1.0, selection_pressure=5 ]
+
+Experiment 0:
+Generation 0. best score: -19
+Generation 10. best score: -10
+Generation 20. best score: -6
+Generation 30. best score: -6
+Generation 40. best score: -8
+Generation 50. best score: -8
+Generation 60. best score: -5
+Generation 70. best score: -5
+Generation 80. best score: -4
+Generation 90. best score: -2
+Generation 100. best score: -2
+Generation 110. best score: -2
+
+Experiment 1:
+Generation 0. best score: -21
+Generation 10. best score: -16
+Generation 20. best score: -8
+Generation 30. best score: -5
+Generation 40. best score: -4
+Generation 50. best score: -3
+Generation 60. best score: -3
+Generation 70. best score: -2
+Generation 80. best score: -2
+Generation 90. best score: -2
+
+Experiment 2:
+Generation 0. best score: -16
+Generation 10. best score: -11
+Generation 20. best score: -7
+Generation 30. best score: -6
+Generation 40. best score: -4
+Generation 50. best score: 0
+
+Experiment 3:
+Generation 0. best score: -22
+Generation 10. best score: -15
+Generation 20. best score: -12
+Generation 30. best score: -8
+Generation 40. best score: -5
+Generation 50. best score: -2
+Generation 60. best score: -4
+Generation 70. best score: -3
+Generation 80. best score: -2
+Generation 90. best score: -2
+
+Experiment 4:
+Generation 0. best score: -22
+Generation 10. best score: -14
+Generation 20. best score: -7
+Generation 30. best score: -3
+Generation 40. best score: -2
+Generation 50. best score: -2
+Generation 60. best score: -2
+Generation 70. best score: -4
+Generation 80. best score: -2
+Generation 90. best score: -2
+Generation 100. best score: -3
+Generation 110. best score: -2
+
+Experiment 5:
+Generation 0. best score: -13
+Generation 10. best score: -10
+Generation 20. best score: -6
+Generation 30. best score: -4
+Generation 40. best score: 0
+
+Experiment 6:
+Generation 0. best score: -16
+Generation 10. best score: -11
+Generation 20. best score: -9
+Generation 30. best score: -8
+Generation 40. best score: -6
+Generation 50. best score: -4
+Generation 60. best score: -2
+Generation 70. best score: -2
+Generation 80. best score: -2
+Generation 90. best score: -2
+Generation 100. best score: -2
+
+Experiment 7:
+Generation 0. best score: -20
+Generation 10. best score: -11
+Generation 20. best score: -4
+Generation 30. best score: -4
+Generation 40. best score: -4
+Generation 50. best score: -5
+Generation 60. best score: -6
+Generation 70. best score: -3
+Generation 80. best score: -3
+Generation 90. best score: 0
+
+Experiment 8:
+Generation 0. best score: -18
+Generation 10. best score: -13
+Generation 20. best score: -9
+Generation 30. best score: -6
+Generation 40. best score: -5
+Generation 50. best score: -3
+
+Experiment 9:
+Generation 0. best score: -19
+Generation 10. best score: -9
+Generation 20. best score: -5
+Generation 30. best score: -5
+Mean: 81.55714285714286; Std: 45.757912347954246
+Time mean: 1.4004364218030656; Std: 0.7360374511923597
+
+Parameters: [ pop_size=10, p_mutation=0.07, p_crossover=1.0, selection_pressure=10 ]
+
+Experiment 0:
+Generation 0. best score: -16
+Generation 10. best score: -14
+Generation 20. best score: -9
+Generation 30. best score: -7
+Generation 40. best score: -4
+Generation 50. best score: -4
+Generation 60. best score: -2
+Generation 70. best score: -2
+Generation 80. best score: -4
+
+Experiment 1:
+Generation 0. best score: -21
+Generation 10. best score: -12
+Generation 20. best score: -9
+Generation 30. best score: -7
+Generation 40. best score: -7
+Generation 50. best score: -5
+Generation 60. best score: -3
+Generation 70. best score: -3
+Generation 80. best score: -3
+Generation 90. best score: -2
+Generation 100. best score: -2
+Generation 110. best score: -2
+Generation 120. best score: -2
+Generation 130. best score: -2
+Generation 140. best score: -4
+Generation 150. best score: -2
+Generation 160. best score: -2
+Generation 170. best score: -2
+
+Experiment 2:
+Generation 0. best score: -20
+Generation 10. best score: -14
+Generation 20. best score: -10
+Generation 30. best score: -4
+Generation 40. best score: -2
+Generation 50. best score: 0
+
+Experiment 3:
+Generation 0. best score: -20
+Generation 10. best score: -11
+Generation 20. best score: -11
+Generation 30. best score: -10
+Generation 40. best score: -8
+Generation 50. best score: -7
+Generation 60. best score: -4
+Generation 70. best score: -4
+Generation 80. best score: -3
+
+Experiment 4:
+Generation 0. best score: -15
+Generation 10. best score: -8
+Generation 20. best score: -6
+Generation 30. best score: -4
+Generation 40. best score: -4
+Generation 50. best score: -3
+Generation 60. best score: -2
+Generation 70. best score: -2
+
+Experiment 5:
+Generation 0. best score: -19
+Generation 10. best score: -12
+Generation 20. best score: -9
+Generation 30. best score: -5
+Generation 40. best score: -4
+Generation 50. best score: -4
+Generation 60. best score: 0
+
+Experiment 6:
+Generation 0. best score: -23
+Generation 10. best score: -16
+Generation 20. best score: -8
+Generation 30. best score: -4
+Generation 40. best score: -4
+Generation 50. best score: -2
+Generation 60. best score: -2
+
+Experiment 7:
+Generation 0. best score: -20
+Generation 10. best score: -12
+Generation 20. best score: -10
+Generation 30. best score: -5
+Generation 40. best score: -5
+Generation 50. best score: -4
+Generation 60. best score: 0
+
+Experiment 8:
+Generation 0. best score: -16
+Generation 10. best score: -12
+Generation 20. best score: -5
+Generation 30. best score: -4
+Generation 40. best score: -2
+Generation 50. best score: -2
+Generation 60. best score: -2
+Generation 70. best score: -2
+Generation 80. best score: -2
+
+Experiment 9:
+Generation 0. best score: -20
+Generation 10. best score: -14
+Generation 20. best score: -6
+Generation 30. best score: -6
+Generation 40. best score: -3
+Mean: 81.2; Std: 44.45632190096282
+Time mean: 1.4088892996311189; Std: 0.7224335624031313
+
+Parameters: [ pop_size=20, p_mutation=0.03, p_crossover=0.9, selection_pressure=5 ]
+
+Experiment 0:
+Generation 0. best score: -17
+Generation 10. best score: -13
+Generation 20. best score: -9
+Generation 30. best score: -7
+Generation 40. best score: -4
+Generation 50. best score: -2
+
+Experiment 1:
+Generation 0. best score: -18
+Generation 10. best score: -12
+Generation 20. best score: -5
+Generation 30. best score: -4
+Generation 40. best score: -4
+Generation 50. best score: -2
+
+Experiment 2:
+Generation 0. best score: -16
+Generation 10. best score: -11
+Generation 20. best score: -7
+Generation 30. best score: -5
+Generation 40. best score: -7
+Generation 50. best score: -5
+Generation 60. best score: -3
+Generation 70. best score: -3
+Generation 80. best score: -3
+Generation 90. best score: -3
+Generation 100. best score: -3
+Generation 110. best score: -3
+Generation 120. best score: -2
+Generation 130. best score: -2
+Generation 140. best score: -2
+Generation 150. best score: -2
+Generation 160. best score: -2
+Generation 170. best score: -2
+Generation 180. best score: -2
+Generation 190. best score: -2
+Generation 200. best score: -2
+Generation 210. best score: -2
+Generation 220. best score: -2
+Generation 230. best score: -2
+Generation 240. best score: -2
+
+Experiment 3:
+Generation 0. best score: -19
+Generation 10. best score: -16
+Generation 20. best score: -12
+Generation 30. best score: -9
+Generation 40. best score: -7
+Generation 50. best score: -5
+Generation 60. best score: -5
+Generation 70. best score: -4
+Generation 80. best score: -4
+Generation 90. best score: -4
+Generation 100. best score: -4
+Generation 110. best score: -4
+Generation 120. best score: -3
+Generation 130. best score: -2
+Generation 140. best score: -2
+Generation 150. best score: -2
+Generation 160. best score: -2
+Generation 170. best score: -2
+Generation 180. best score: -2
+Generation 190. best score: -2
+Generation 200. best score: -2
+
+Experiment 4:
+Generation 0. best score: -15
+Generation 10. best score: -9
+Generation 20. best score: -5
+Generation 30. best score: -5
+Generation 40. best score: -3
+Generation 50. best score: -2
+Generation 60. best score: -2
+
+Experiment 5:
+Generation 0. best score: -15
+Generation 10. best score: -10
+Generation 20. best score: -5
+Generation 30. best score: -2
+
+Experiment 6:
+Generation 0. best score: -14
+Generation 10. best score: -12
+Generation 20. best score: -11
+Generation 30. best score: -9
+Generation 40. best score: -5
+Generation 50. best score: -3
+Generation 60. best score: -3
+Generation 70. best score: -3
+Generation 80. best score: -2
+Generation 90. best score: -2
+
+Experiment 7:
+Generation 0. best score: -18
+Generation 10. best score: -15
+Generation 20. best score: -12
+Generation 30. best score: -6
+Generation 40. best score: -3
+
+Experiment 8:
+Generation 0. best score: -17
+Generation 10. best score: -13
+Generation 20. best score: -9
+Generation 30. best score: -8
+Generation 40. best score: -5
+Generation 50. best score: -3
+Generation 60. best score: -4
+Generation 70. best score: -4
+Generation 80. best score: -4
+Generation 90. best score: -2
+
+Experiment 9:
+Generation 0. best score: -20
+Generation 10. best score: -15
+Generation 20. best score: -11
+Generation 30. best score: -8
+Generation 40. best score: -7
+Generation 50. best score: -4
+Generation 60. best score: -4
+Mean: 82.97777777777777; Std: 47.89712237791424
+Time mean: 1.470844523111979; Std: 0.8335611749157422
+
+Parameters: [ pop_size=20, p_mutation=0.03, p_crossover=0.9, selection_pressure=10 ]
+
+Experiment 0:
+Generation 0. best score: -18
+Generation 10. best score: -16
+Generation 20. best score: -14
+Generation 30. best score: -11
+Generation 40. best score: -6
+Generation 50. best score: -2
+
+Experiment 1:
+Generation 0. best score: -13
+Generation 10. best score: -12
+Generation 20. best score: -8
+Generation 30. best score: -8
+Generation 40. best score: -6
+Generation 50. best score: -2
+
+Experiment 2:
+Generation 0. best score: -19
+Generation 10. best score: -7
+Generation 20. best score: -6
+Generation 30. best score: -2
+Generation 40. best score: -2
+Generation 50. best score: -2
+Generation 60. best score: -2
+Generation 70. best score: -2
+
+Experiment 3:
+Generation 0. best score: -17
+Generation 10. best score: -13
+Generation 20. best score: -10
+Generation 30. best score: -8
+Generation 40. best score: -7
+Generation 50. best score: -6
+Generation 60. best score: -5
+Generation 70. best score: -4
+Generation 80. best score: -2
+Generation 90. best score: -2
+Generation 100. best score: -2
+
+Experiment 4:
+Generation 0. best score: -16
+Generation 10. best score: -14
+Generation 20. best score: -10
+Generation 30. best score: -9
+Generation 40. best score: -9
+Generation 50. best score: -2
+
+Experiment 5:
+Generation 0. best score: -15
+Generation 10. best score: -13
+Generation 20. best score: -10
+Generation 30. best score: -8
+Generation 40. best score: -5
+Generation 50. best score: -5
+Generation 60. best score: -4
+Generation 70. best score: -4
+Generation 80. best score: -4
+Generation 90. best score: -4
+Generation 100. best score: -4
+Generation 110. best score: -4
+Generation 120. best score: -4
+Generation 130. best score: -4
+Generation 140. best score: -2
+
+Experiment 6:
+Generation 0. best score: -17
+Generation 10. best score: -11
+Generation 20. best score: -8
+Generation 30. best score: -7
+Generation 40. best score: -4
+Generation 50. best score: -2
+
+Experiment 7:
+Generation 0. best score: -17
+Generation 10. best score: -14
+Generation 20. best score: -10
+Generation 30. best score: -8
+Generation 40. best score: -4
+Generation 50. best score: -4
+Generation 60. best score: -4
+Generation 70. best score: -4
+Generation 80. best score: -4
+Generation 90. best score: -4
+Generation 100. best score: -4
+Generation 110. best score: -4
+Generation 120. best score: -2
+
+Experiment 8:
+Generation 0. best score: -17
+Generation 10. best score: -12
+Generation 20. best score: -5
+Generation 30. best score: -3
+Generation 40. best score: -2
+Generation 50. best score: -2
+Generation 60. best score: -2
+Generation 70. best score: -2
+Generation 80. best score: -2
+
+Experiment 9:
+Generation 0. best score: -14
+Generation 10. best score: -10
+Generation 20. best score: -7
+Generation 30. best score: -3
+Generation 40. best score: -3
+Generation 50. best score: -3
+Mean: 82.97; Std: 46.46872631407629
+Time mean: 1.49350346326828; Std: 0.8168576914745935
+
+Parameters: [ pop_size=20, p_mutation=0.03, p_crossover=1.0, selection_pressure=5 ]
+
+Experiment 0:
+Generation 0. best score: -20
+Generation 10. best score: -14
+Generation 20. best score: -9
+Generation 30. best score: -7
+Generation 40. best score: -2
+
+Experiment 1:
+Generation 0. best score: -17
+Generation 10. best score: -15
+Generation 20. best score: -10
+Generation 30. best score: -9
+Generation 40. best score: -4
+Generation 50. best score: -2
+
+Experiment 2:
+Generation 0. best score: -18
+Generation 10. best score: -16
+Generation 20. best score: -12
+Generation 30. best score: -11
+Generation 40. best score: -9
+Generation 50. best score: -9
+Generation 60. best score: -6
+Generation 70. best score: -5
+Generation 80. best score: -3
+Generation 90. best score: -2
+Generation 100. best score: -2
+
+Experiment 3:
+Generation 0. best score: -16
+Generation 10. best score: -12
+Generation 20. best score: -10
+Generation 30. best score: -7
+Generation 40. best score: -5
+Generation 50. best score: -3
+
+Experiment 4:
+Generation 0. best score: -17
+Generation 10. best score: -13
+Generation 20. best score: -6
+Generation 30. best score: -5
+Generation 40. best score: -4
+Generation 50. best score: -2
+
+Experiment 5:
+Generation 0. best score: -16
+Generation 10. best score: -11
+Generation 20. best score: -6
+Generation 30. best score: -5
+Generation 40. best score: 0
+
+Experiment 6:
+Generation 0. best score: -17
+Generation 10. best score: -10
+Generation 20. best score: -10
+Generation 30. best score: -8
+Generation 40. best score: -5
+Generation 50. best score: -3
+
+Experiment 7:
+Generation 0. best score: -20
+Generation 10. best score: -13
+Generation 20. best score: -8
+Generation 30. best score: -5
+Generation 40. best score: -2
+Generation 50. best score: -2
+
+Experiment 8:
+Generation 0. best score: -20
+Generation 10. best score: -14
+Generation 20. best score: -9
+Generation 30. best score: -5
+Generation 40. best score: -3
+Generation 50. best score: -3
+Generation 60. best score: -2
+
+Experiment 9:
+Generation 0. best score: -14
+Generation 10. best score: -10
+Generation 20. best score: -8
+Generation 30. best score: -5
+Generation 40. best score: -3
+Generation 50. best score: 0
+Mean: 80.83636363636364; Std: 45.059904525307836
+Time mean: 1.4706262588500976; Std: 0.7875901286923302
+
+Parameters: [ pop_size=20, p_mutation=0.03, p_crossover=1.0, selection_pressure=10 ]
+
+Experiment 0:
+Generation 0. best score: -23
+Generation 10. best score: -17
+Generation 20. best score: -13
+Generation 30. best score: -6
+Generation 40. best score: -6
+Generation 50. best score: -2
+
+Experiment 1:
+Generation 0. best score: -16
+Generation 10. best score: -9
+Generation 20. best score: -8
+Generation 30. best score: -7
+Generation 40. best score: -4
+Generation 50. best score: -2
+Generation 60. best score: -2
+Generation 70. best score: -2
+
+Experiment 2:
+Generation 0. best score: -16
+Generation 10. best score: -10
+Generation 20. best score: -8
+Generation 30. best score: -5
+Generation 40. best score: -4
+Generation 50. best score: -2
+Generation 60. best score: -2
+Generation 70. best score: -2
+Generation 80. best score: -2
+Generation 90. best score: -2
+Generation 100. best score: -2
+Generation 110. best score: -2
+Generation 120. best score: -2
+Generation 130. best score: 0
+
+Experiment 3:
+Generation 0. best score: -17
+Generation 10. best score: -12
+Generation 20. best score: -9
+Generation 30. best score: -5
+Generation 40. best score: -2
+Generation 50. best score: -2
+Generation 60. best score: -2
+
+Experiment 4:
+Generation 0. best score: -18
+Generation 10. best score: -12
+Generation 20. best score: -9
+Generation 30. best score: -6
+Generation 40. best score: -4
+Generation 50. best score: -2
+Generation 60. best score: -2
+Generation 70. best score: -2
+
+Experiment 5:
+Generation 0. best score: -21
+Generation 10. best score: -10
+Generation 20. best score: -7
+Generation 30. best score: -5
+Generation 40. best score: -3
+Generation 50. best score: -2
+
+Experiment 6:
+Generation 0. best score: -18
+Generation 10. best score: -11
+Generation 20. best score: -7
+Generation 30. best score: -6
+Generation 40. best score: -4
+Generation 50. best score: -4
+Generation 60. best score: -2
+
+Experiment 7:
+Generation 0. best score: -21
+Generation 10. best score: -15
+Generation 20. best score: -10
+Generation 30. best score: -10
+Generation 40. best score: -6
+Generation 50. best score: -4
+Generation 60. best score: -4
+Generation 70. best score: -4
+Generation 80. best score: -4
+Generation 90. best score: -4
+Generation 100. best score: -2
+Generation 110. best score: 0
+
+Experiment 8:
+Generation 0. best score: -10
+Generation 10. best score: -9
+Generation 20. best score: -7
+Generation 30. best score: -5
+Generation 40. best score: -2
+Generation 50. best score: -2
+
+Experiment 9:
+Generation 0. best score: -14
+Generation 10. best score: -10
+Generation 20. best score: -7
+Generation 30. best score: -2
+Mean: 80.1; Std: 43.91806733743484
+Time mean: 1.472175838549932; Std: 0.7702369986094068
+
+Parameters: [ pop_size=20, p_mutation=0.07, p_crossover=0.9, selection_pressure=5 ]
+
+Experiment 0:
+Generation 0. best score: -17
+Generation 10. best score: -13
+Generation 20. best score: -10
+Generation 30. best score: -7
+Generation 40. best score: -4
+Generation 50. best score: -4
+Generation 60. best score: -2
+Generation 70. best score: -5
+Generation 80. best score: -4
+Generation 90. best score: -2
+Generation 100. best score: -3
+Generation 110. best score: -2
+Generation 120. best score: -4
+Generation 130. best score: -4
+Generation 140. best score: -2
+
+Experiment 1:
+Generation 0. best score: -18
+Generation 10. best score: -15
+Generation 20. best score: -8
+Generation 30. best score: -9
+Generation 40. best score: -6
+Generation 50. best score: -4
+Generation 60. best score: -6
+Generation 70. best score: -4
+Generation 80. best score: -2
+Generation 90. best score: -3
+Generation 100. best score: -4
+Generation 110. best score: -4
+Generation 120. best score: -4
+Generation 130. best score: -2
+
+Experiment 2:
+Generation 0. best score: -17
+Generation 10. best score: -10
+Generation 20. best score: -8
+Generation 30. best score: -7
+Generation 40. best score: -6
+Generation 50. best score: -4
+Generation 60. best score: -4
+
+Experiment 3:
+Generation 0. best score: -19
+Generation 10. best score: -11
+Generation 20. best score: -9
+Generation 30. best score: -8
+Generation 40. best score: -8
+Generation 50. best score: -5
+Generation 60. best score: -2
+Generation 70. best score: -4
+
+Experiment 4:
+Generation 0. best score: -17
+Generation 10. best score: -11
+Generation 20. best score: -9
+Generation 30. best score: -6
+Generation 40. best score: -7
+Generation 50. best score: -2
+
+Experiment 5:
+Generation 0. best score: -16
+Generation 10. best score: -12
+Generation 20. best score: -7
+Generation 30. best score: -2
+
+Experiment 6:
+Generation 0. best score: -14
+Generation 10. best score: -11
+Generation 20. best score: -6
+Generation 30. best score: -6
+Generation 40. best score: -8
+Generation 50. best score: -7
+Generation 60. best score: -4
+Generation 70. best score: -5
+Generation 80. best score: -3
+Generation 90. best score: -2
+Generation 100. best score: -2
+
+Experiment 7:
+Generation 0. best score: -18
+Generation 10. best score: -11
+Generation 20. best score: -8
+Generation 30. best score: -8
+Generation 40. best score: -4
+Generation 50. best score: -5
+
+Experiment 8:
+Generation 0. best score: -18
+Generation 10. best score: -12
+Generation 20. best score: -8
+Generation 30. best score: -6
+Generation 40. best score: -2
+Generation 50. best score: -3
+
+Experiment 9:
+Generation 0. best score: -18
+Generation 10. best score: -8
+Generation 20. best score: -7
+Generation 30. best score: -4
+Mean: 79.8; Std: 43.62496973633477
+Time mean: 1.5065053481322068; Std: 0.7964581642962938
+
+Parameters: [ pop_size=20, p_mutation=0.07, p_crossover=0.9, selection_pressure=10 ]
+
+Experiment 0:
+Generation 0. best score: -17
+Generation 10. best score: -12
+Generation 20. best score: -8
+Generation 30. best score: -4
+Generation 40. best score: -4
+Generation 50. best score: -2
+
+Experiment 1:
+Generation 0. best score: -16
+Generation 10. best score: -12
+Generation 20. best score: -7
+Generation 30. best score: -5
+
+Experiment 2:
+Generation 0. best score: -17
+Generation 10. best score: -11
+Generation 20. best score: -8
+Generation 30. best score: -4
+Generation 40. best score: -3
+Generation 50. best score: -2
+
+Experiment 3:
+Generation 0. best score: -12
+Generation 10. best score: -8
+Generation 20. best score: -7
+Generation 30. best score: -5
+Generation 40. best score: -5
+Generation 50. best score: -4
+Generation 60. best score: -3
+Generation 70. best score: -2
+Generation 80. best score: -2
+Generation 90. best score: -2
+Generation 100. best score: -2
+
+Experiment 4:
+Generation 0. best score: -14
+Generation 10. best score: -12
+Generation 20. best score: -10
+Generation 30. best score: -7
+Generation 40. best score: -4
+Generation 50. best score: 0
+
+Experiment 5:
+Generation 0. best score: -17
+Generation 10. best score: -10
+Generation 20. best score: -6
+Generation 30. best score: -6
+Generation 40. best score: -4
+Generation 50. best score: -4
+Generation 60. best score: -4
+Generation 70. best score: -4
+Generation 80. best score: -2
+Generation 90. best score: -2
+
+Experiment 6:
+Generation 0. best score: -19
+Generation 10. best score: -11
+Generation 20. best score: -5
+Generation 30. best score: -4
+Generation 40. best score: -2
+Generation 50. best score: -2
+
+Experiment 7:
+Generation 0. best score: -14
+Generation 10. best score: -12
+Generation 20. best score: -12
+Generation 30. best score: -9
+Generation 40. best score: -7
+Generation 50. best score: -2
+Generation 60. best score: -2
+Generation 70. best score: -3
+
+Experiment 8:
+Generation 0. best score: -17
+Generation 10. best score: -9
+Generation 20. best score: -4
+Generation 30. best score: -5
+Generation 40. best score: -4
+Generation 50. best score: -4
+Generation 60. best score: -4
+Generation 70. best score: -4
+Generation 80. best score: -2
+Generation 90. best score: -3
+Generation 100. best score: -2
+Generation 110. best score: -2
+Generation 120. best score: -2
+
+Experiment 9:
+Generation 0. best score: -17
+Generation 10. best score: -11
+Generation 20. best score: -7
+Generation 30. best score: -8
+Generation 40. best score: -6
+Generation 50. best score: -4
+Generation 60. best score: -2
+Generation 70. best score: -4
+Generation 80. best score: -2
+Mean: 79.37142857142857; Std: 42.58235235114956
+Time mean: 1.5319077168192183; Std: 0.7897808958933709
+
+Parameters: [ pop_size=20, p_mutation=0.07, p_crossover=1.0, selection_pressure=5 ]
+
+Experiment 0:
+Generation 0. best score: -20
+Generation 10. best score: -13
+Generation 20. best score: -11
+Generation 30. best score: -9
+Generation 40. best score: -2
+Generation 50. best score: -2
+Generation 60. best score: 0
+
+Experiment 1:
+Generation 0. best score: -19
+Generation 10. best score: -13
+Generation 20. best score: -7
+Generation 30. best score: -4
+Generation 40. best score: -3
+Generation 50. best score: -2
+Generation 60. best score: -2
+Generation 70. best score: -2
+Generation 80. best score: -5
+Generation 90. best score: -6
+Generation 100. best score: -8
+Generation 110. best score: -3
+Generation 120. best score: -3
+Generation 130. best score: 0
+
+Experiment 2:
+Generation 0. best score: -20
+Generation 10. best score: -13
+Generation 20. best score: -8
+Generation 30. best score: -7
+Generation 40. best score: -3
+Generation 50. best score: -2
+
+Experiment 3:
+Generation 0. best score: -19
+Generation 10. best score: -14
+Generation 20. best score: -12
+Generation 30. best score: -11
+Generation 40. best score: -11
+Generation 50. best score: -9
+Generation 60. best score: -5
+Generation 70. best score: -4
+Generation 80. best score: -2
+Generation 90. best score: -4
+Generation 100. best score: -4
+Generation 110. best score: -4
+Generation 120. best score: -2
+Generation 130. best score: -4
+Generation 140. best score: -3
+Generation 150. best score: -4
+Generation 160. best score: -2
+Generation 170. best score: -2
+
+Experiment 4:
+Generation 0. best score: -18
+Generation 10. best score: -10
+Generation 20. best score: -10
+Generation 30. best score: -8
+Generation 40. best score: -7
+Generation 50. best score: -6
+Generation 60. best score: -5
+Generation 70. best score: -5
+Generation 80. best score: -4
+Generation 90. best score: -4
+Generation 100. best score: -5
+Generation 110. best score: -2
+Generation 120. best score: -3
+Generation 130. best score: -3
+Generation 140. best score: -2
+Generation 150. best score: -2
+
+Experiment 5:
+Generation 0. best score: -19
+Generation 10. best score: -14
+Generation 20. best score: -10
+Generation 30. best score: -5
+Generation 40. best score: -4
+Generation 50. best score: -3
+Generation 60. best score: -3
+Generation 70. best score: -3
+Generation 80. best score: -3
+Generation 90. best score: -2
+
+Experiment 6:
+Generation 0. best score: -15
+Generation 10. best score: -9
+Generation 20. best score: -5
+Generation 30. best score: -7
+Generation 40. best score: -6
+Generation 50. best score: -2
+
+Experiment 7:
+Generation 0. best score: -17
+Generation 10. best score: -11
+Generation 20. best score: -6
+Generation 30. best score: -4
+Generation 40. best score: -4
+Generation 50. best score: -3
+Generation 60. best score: -2
+Generation 70. best score: -2
+Generation 80. best score: -4
+
+Experiment 8:
+Generation 0. best score: -16
+Generation 10. best score: -8
+Generation 20. best score: -7
+Generation 30. best score: -5
+Generation 40. best score: -2
+Generation 50. best score: -4
+Generation 60. best score: -2
+Generation 70. best score: -2
+Generation 80. best score: -2
+Generation 90. best score: -2
+Generation 100. best score: -2
+Generation 110. best score: -2
+Generation 120. best score: -4
+Generation 130. best score: -2
+
+Experiment 9:
+Generation 0. best score: -16
+Generation 10. best score: -9
+Generation 20. best score: -8
+Generation 30. best score: -6
+Generation 40. best score: -7
+Generation 50. best score: -7
+Generation 60. best score: -5
+Generation 70. best score: -3
+Mean: 80.90666666666667; Std: 42.83013846144322
+Time mean: 1.6022569545110066; Std: 0.8480719939144543
+
+Parameters: [ pop_size=20, p_mutation=0.07, p_crossover=1.0, selection_pressure=10 ]
+
+Experiment 0:
+Generation 0. best score: -17
+Generation 10. best score: -7
+Generation 20. best score: -4
+Generation 30. best score: -4
+Generation 40. best score: -2
+Generation 50. best score: -2
+Generation 60. best score: -2
+
+Experiment 1:
+Generation 0. best score: -17
+Generation 10. best score: -12
+Generation 20. best score: -8
+Generation 30. best score: -6
+Generation 40. best score: -4
+
+Experiment 2:
+Generation 0. best score: -13
+Generation 10. best score: -10
+Generation 20. best score: -7
+Generation 30. best score: -2
+
+Experiment 3:
+Generation 0. best score: -15
+Generation 10. best score: -10
+Generation 20. best score: -8
+Generation 30. best score: -4
+Generation 40. best score: -6
+Generation 50. best score: -3
+Generation 60. best score: -2
+Generation 70. best score: -2
+
+Experiment 4:
+Generation 0. best score: -18
+Generation 10. best score: -13
+Generation 20. best score: -12
+Generation 30. best score: -8
+Generation 40. best score: -5
+Generation 50. best score: -4
+Generation 60. best score: -2
+
+Experiment 5:
+Generation 0. best score: -22
+Generation 10. best score: -12
+Generation 20. best score: -8
+Generation 30. best score: -6
+Generation 40. best score: -5
+Generation 50. best score: -2
+Generation 60. best score: -2
+Generation 70. best score: -2
+Generation 80. best score: -2
+Generation 90. best score: -2
+
+Experiment 6:
+Generation 0. best score: -15
+Generation 10. best score: -8
+Generation 20. best score: -4
+Generation 30. best score: -2
+
+Experiment 7:
+Generation 0. best score: -19
+Generation 10. best score: -12
+Generation 20. best score: -11
+Generation 30. best score: -9
+Generation 40. best score: -6
+Generation 50. best score: -4
+Generation 60. best score: -2
+Generation 70. best score: -2
+Generation 80. best score: -2
+
+Experiment 8:
+Generation 0. best score: -18
+Generation 10. best score: -12
+Generation 20. best score: -2
+Generation 30. best score: -6
+Generation 40. best score: -4
+Generation 50. best score: -4
+
+Experiment 9:
+Generation 0. best score: -16
+Generation 10. best score: -10
+Generation 20. best score: -7
+Generation 30. best score: -5
+Generation 40. best score: -3
+Generation 50. best score: -2
+Mean: 79.69375; Std: 42.021407673115704
+Time mean: 1.6004385113716126; Std: 0.8298290492347495
+
+Parameters: [ pop_size=30, p_mutation=0.03, p_crossover=0.9, selection_pressure=5 ]
+
+Experiment 0:
+Generation 0. best score: -16
+Generation 10. best score: -15
+Generation 20. best score: -10
+Generation 30. best score: -10
+Generation 40. best score: -10
+Generation 50. best score: -7
+Generation 60. best score: -5
+Generation 70. best score: -4
+Generation 80. best score: -4
+Generation 90. best score: -4
+Generation 100. best score: -4
+Generation 110. best score: -4
+Generation 120. best score: -4
+Generation 130. best score: -2
+Generation 140. best score: -2
+Generation 150. best score: -2
+Generation 160. best score: -2
+Generation 170. best score: -2
+Generation 180. best score: -2
+Generation 190. best score: -2
+Generation 200. best score: -2
+Generation 210. best score: -2
+Generation 220. best score: -2
+Generation 230. best score: -2
+Generation 240. best score: -2
+Generation 250. best score: -2
+Generation 260. best score: -2
+Generation 270. best score: -2
+Generation 280. best score: -2
+
+Experiment 1:
+Generation 0. best score: -16
+Generation 10. best score: -12
+Generation 20. best score: -9
+Generation 30. best score: -6
+Generation 40. best score: -5
+Generation 50. best score: -4
+Generation 60. best score: -4
+Generation 70. best score: -4
+Generation 80. best score: -2
+Generation 90. best score: -2
+Generation 100. best score: -2
+Generation 110. best score: 0
+
+Experiment 2:
+Generation 0. best score: -16
+Generation 10. best score: -15
+Generation 20. best score: -12
+Generation 30. best score: -8
+Generation 40. best score: -2
+
+Experiment 3:
+Generation 0. best score: -16
+Generation 10. best score: -13
+Generation 20. best score: -12
+Generation 30. best score: -7
+Generation 40. best score: -5
+Generation 50. best score: -4
+Generation 60. best score: -4
+
+Experiment 4:
+Generation 0. best score: -17
+Generation 10. best score: -11
+Generation 20. best score: -8
+Generation 30. best score: -6
+Generation 40. best score: -6
+Generation 50. best score: -3
+Generation 60. best score: -3
+Generation 70. best score: -2
+Generation 80. best score: -2
+Generation 90. best score: -2
+
+Experiment 5:
+Generation 0. best score: -16
+Generation 10. best score: -16
+Generation 20. best score: -13
+Generation 30. best score: -8
+Generation 40. best score: -5
+Generation 50. best score: -5
+Generation 60. best score: -2
+Generation 70. best score: -2
+Generation 80. best score: -2
+Generation 90. best score: -2
+Generation 100. best score: -2
+Generation 110. best score: -2
+
+Experiment 6:
+Generation 0. best score: -19
+Generation 10. best score: -8
+Generation 20. best score: -5
+Generation 30. best score: -5
+Generation 40. best score: -3
+Generation 50. best score: -3
+Generation 60. best score: -3
+Generation 70. best score: -3
+Generation 80. best score: -2
+Generation 90. best score: -2
+Generation 100. best score: 0
+
+Experiment 7:
+Generation 0. best score: -18
+Generation 10. best score: -16
+Generation 20. best score: -13
+Generation 30. best score: -10
+Generation 40. best score: -7
+Generation 50. best score: -4
+Generation 60. best score: -4
+Generation 70. best score: -2
+Generation 80. best score: -2
+Generation 90. best score: -2
+
+Experiment 8:
+Generation 0. best score: -17
+Generation 10. best score: -9
+Generation 20. best score: -4
+Generation 30. best score: -2
+Generation 40. best score: -2
+Generation 50. best score: -2
+
+Experiment 9:
+Generation 0. best score: -15
+Generation 10. best score: -7
+Generation 20. best score: -6
+Generation 30. best score: -4
+Generation 40. best score: -2
+Generation 50. best score: -2
+Generation 60. best score: -2
+Mean: 81.10588235294118; Std: 44.176092902474856
+Time mean: 1.6551505425397088; Std: 0.915949044474205
+
+Parameters: [ pop_size=30, p_mutation=0.03, p_crossover=0.9, selection_pressure=10 ]
+
+Experiment 0:
+Generation 0. best score: -19
+Generation 10. best score: -15
+Generation 20. best score: -12
+Generation 30. best score: -10
+Generation 40. best score: -8
+Generation 50. best score: -6
+Generation 60. best score: -5
+Generation 70. best score: -2
+Generation 80. best score: -2
+
+Experiment 1:
+Generation 0. best score: -16
+Generation 10. best score: -10
+Generation 20. best score: -9
+Generation 30. best score: -2
+Generation 40. best score: -2
+Generation 50. best score: -2
+Generation 60. best score: -2
+
+Experiment 2:
+Generation 0. best score: -16
+Generation 10. best score: -10
+Generation 20. best score: -9
+Generation 30. best score: -6
+Generation 40. best score: -4
+Generation 50. best score: -2
+Generation 60. best score: -2
+Generation 70. best score: -2
+Generation 80. best score: -2
+Generation 90. best score: -2
+Generation 100. best score: -2
+Generation 110. best score: -2
+Generation 120. best score: -2
+Generation 130. best score: -2
+Generation 140. best score: -2
+Generation 150. best score: -2
+Generation 160. best score: -2
+Generation 170. best score: -2
+Generation 180. best score: -2
+Generation 190. best score: -2
+Generation 200. best score: -2
+Generation 210. best score: -2
+Generation 220. best score: -2
+Generation 230. best score: -2
+Generation 240. best score: -2
+Generation 250. best score: -2
+Generation 260. best score: -2
+Generation 270. best score: -2
+Generation 280. best score: -2
+Generation 290. best score: -2
+Generation 300. best score: -2
+Generation 310. best score: -2
+Generation 320. best score: -2
+Generation 330. best score: -2
+Generation 340. best score: -2
+Generation 350. best score: -2
+Generation 360. best score: 0
+
+Experiment 3:
+Generation 0. best score: -18
+Generation 10. best score: -9
+Generation 20. best score: -4
+Generation 30. best score: -4
+
+Experiment 4:
+Generation 0. best score: -16
+Generation 10. best score: -14
+Generation 20. best score: -12
+Generation 30. best score: -8
+Generation 40. best score: -6
+Generation 50. best score: -5
+Generation 60. best score: -4
+Generation 70. best score: -4
+Generation 80. best score: -4
+Generation 90. best score: -2
+Generation 100. best score: -2
+
+Experiment 5:
+Generation 0. best score: -19
+Generation 10. best score: -13
+Generation 20. best score: -4
+Generation 30. best score: -4
+Generation 40. best score: 0
+
+Experiment 6:
+Generation 0. best score: -15
+Generation 10. best score: -6
+Generation 20. best score: -3
+
+Experiment 7:
+Generation 0. best score: -16
+Generation 10. best score: -11
+Generation 20. best score: -6
+Generation 30. best score: -4
+Generation 40. best score: -2
+
+Experiment 8:
+Generation 0. best score: -15
+Generation 10. best score: -12
+Generation 20. best score: -8
+Generation 30. best score: -6
+Generation 40. best score: -5
+Generation 50. best score: -2
+Generation 60. best score: -2
+Generation 70. best score: 0
+
+Experiment 9:
+Generation 0. best score: -18
+Generation 10. best score: -15
+Generation 20. best score: -9
+Generation 30. best score: -7
+Generation 40. best score: -6
+Generation 50. best score: -2
+Generation 60. best score: -2
+Mean: 81.62222222222222; Std: 48.26175782933271
+Time mean: 1.686662087175581; Std: 1.0390394255568118
+
+Parameters: [ pop_size=30, p_mutation=0.03, p_crossover=1.0, selection_pressure=5 ]
+
+Experiment 0:
+Generation 0. best score: -15
+Generation 10. best score: -12
+Generation 20. best score: -9
+Generation 30. best score: -7
+Generation 40. best score: -5
+Generation 50. best score: -4
+Generation 60. best score: -3
+Generation 70. best score: -3
+Generation 80. best score: -3
+Generation 90. best score: -2
+
+Experiment 1:
+Generation 0. best score: -12
+Generation 10. best score: -9
+Generation 20. best score: -5
+Generation 30. best score: -2
+Generation 40. best score: -2
+
+Experiment 2:
+Generation 0. best score: -17
+Generation 10. best score: -12
+Generation 20. best score: -11
+Generation 30. best score: -7
+Generation 40. best score: -7
+Generation 50. best score: -5
+Generation 60. best score: -5
+Generation 70. best score: -4
+Generation 80. best score: -2
+Generation 90. best score: -2
+Generation 100. best score: -2
+
+Experiment 3:
+Generation 0. best score: -17
+Generation 10. best score: -10
+Generation 20. best score: -9
+Generation 30. best score: -7
+Generation 40. best score: -7
+Generation 50. best score: -4
+Generation 60. best score: -3
+Generation 70. best score: -2
+Generation 80. best score: -2
+
+Experiment 4:
+Generation 0. best score: -19
+Generation 10. best score: -12
+Generation 20. best score: -4
+Generation 30. best score: -3
+Generation 40. best score: -3
+Generation 50. best score: -3
+Generation 60. best score: -2
+
+Experiment 5:
+Generation 0. best score: -15
+Generation 10. best score: -12
+Generation 20. best score: -8
+Generation 30. best score: -8
+Generation 40. best score: -6
+Generation 50. best score: -2
+Generation 60. best score: -2
+
+Experiment 6:
+Generation 0. best score: -11
+Generation 10. best score: -11
+Generation 20. best score: -10
+Generation 30. best score: -6
+Generation 40. best score: -6
+Generation 50. best score: -5
+Generation 60. best score: -5
+Generation 70. best score: -2
+Generation 80. best score: -2
+
+Experiment 7:
+Generation 0. best score: -15
+Generation 10. best score: -11
+Generation 20. best score: -9
+Generation 30. best score: -6
+Generation 40. best score: -5
+Generation 50. best score: -4
+Generation 60. best score: -4
+Generation 70. best score: -2
+
+Experiment 8:
+Generation 0. best score: -14
+Generation 10. best score: -11
+Generation 20. best score: -8
+Generation 30. best score: -6
+Generation 40. best score: -6
+Generation 50. best score: -3
+Generation 60. best score: -2
+Generation 70. best score: -2
+Generation 80. best score: -2
+Generation 90. best score: -2
+
+Experiment 9:
+Generation 0. best score: -14
+Generation 10. best score: -12
+Generation 20. best score: -9
+Generation 30. best score: -7
+Generation 40. best score: -4
+Generation 50. best score: -2
+Generation 60. best score: -2
+Generation 70. best score: -2
+Mean: 81.5; Std: 47.15198324365078
+Time mean: 1.7019368560690629; Std: 1.0181758227076465
+
+Parameters: [ pop_size=30, p_mutation=0.03, p_crossover=1.0, selection_pressure=10 ]
+
+Experiment 0:
+Generation 0. best score: -19
+Generation 10. best score: -13
+Generation 20. best score: -9
+Generation 30. best score: -7
+Generation 40. best score: -5
+Generation 50. best score: -3
+Generation 60. best score: -3
+Generation 70. best score: -3
+Generation 80. best score: -3
+Generation 90. best score: -3
+Generation 100. best score: -3
+Generation 110. best score: -3
+
+Experiment 1:
+Generation 0. best score: -17
+Generation 10. best score: -13
+Generation 20. best score: -9
+Generation 30. best score: -8
+Generation 40. best score: -6
+Generation 50. best score: -4
+Generation 60. best score: -2
+Generation 70. best score: -2
+Generation 80. best score: -2
+
+Experiment 2:
+Generation 0. best score: -15
+Generation 10. best score: -12
+Generation 20. best score: -7
+Generation 30. best score: -5
+Generation 40. best score: -5
+Generation 50. best score: -4
+Generation 60. best score: -4
+Generation 70. best score: -2
+
+Experiment 3:
+Generation 0. best score: -15
+Generation 10. best score: -12
+Generation 20. best score: -6
+Generation 30. best score: -6
+Generation 40. best score: -4
+Generation 50. best score: -4
+Generation 60. best score: -4
+Generation 70. best score: -4
+Generation 80. best score: -4
+Generation 90. best score: -2
+
+Experiment 4:
+Generation 0. best score: -17
+Generation 10. best score: -13
+Generation 20. best score: -8
+Generation 30. best score: -8
+Generation 40. best score: -6
+Generation 50. best score: 0
+
+Experiment 5:
+Generation 0. best score: -19
+Generation 10. best score: -12
+Generation 20. best score: -10
+Generation 30. best score: -5
+Generation 40. best score: -4
+Generation 50. best score: -2
+Generation 60. best score: -2
+Generation 70. best score: -2
+Generation 80. best score: -2
+
+Experiment 6:
+Generation 0. best score: -13
+Generation 10. best score: -12
+Generation 20. best score: -6
+Generation 30. best score: -4
+Generation 40. best score: -2
+Generation 50. best score: -2
+
+Experiment 7:
+Generation 0. best score: -17
+Generation 10. best score: -13
+Generation 20. best score: -11
+Generation 30. best score: -4
+Generation 40. best score: -2
+
+Experiment 8:
+Generation 0. best score: -15
+Generation 10. best score: -11
+Generation 20. best score: -8
+Generation 30. best score: -6
+Generation 40. best score: -4
+Generation 50. best score: -4
+
+Experiment 9:
+Generation 0. best score: -16
+Generation 10. best score: -10
+Generation 20. best score: -10
+Generation 30. best score: -7
+Generation 40. best score: -3
+Mean: 81.05; Std: 46.275529420154434
+Time mean: 1.7075726473331452; Std: 0.9999862294604548
+
+Parameters: [ pop_size=30, p_mutation=0.07, p_crossover=0.9, selection_pressure=5 ]
+
+Experiment 0:
+Generation 0. best score: -16
+Generation 10. best score: -14
+Generation 20. best score: -13
+Generation 30. best score: -7
+Generation 40. best score: -7
+Generation 50. best score: -5
+Generation 60. best score: -3
+Generation 70. best score: -4
+Generation 80. best score: -2
+
+Experiment 1:
+Generation 0. best score: -20
+Generation 10. best score: -15
+Generation 20. best score: -14
+Generation 30. best score: -10
+Generation 40. best score: -9
+Generation 50. best score: -7
+Generation 60. best score: -5
+Generation 70. best score: -7
+Generation 80. best score: -7
+Generation 90. best score: -9
+Generation 100. best score: -7
+Generation 110. best score: -7
+Generation 120. best score: -5
+Generation 130. best score: -4
+Generation 140. best score: -2
+Generation 150. best score: -4
+Generation 160. best score: -4
+Generation 170. best score: -4
+Generation 180. best score: -6
+Generation 190. best score: -6
+Generation 200. best score: -3
+Generation 210. best score: -4
+Generation 220. best score: -2
+Generation 230. best score: -2
+Generation 240. best score: -4
+Generation 250. best score: -6
+Generation 260. best score: -2
+
+Experiment 2:
+Generation 0. best score: -14
+Generation 10. best score: -10
+Generation 20. best score: -9
+Generation 30. best score: -4
+Generation 40. best score: -4
+Generation 50. best score: -6
+Generation 60. best score: -5
+Generation 70. best score: -4
+Generation 80. best score: -9
+Generation 90. best score: -5
+Generation 100. best score: -5
+Generation 110. best score: -7
+Generation 120. best score: -7
+Generation 130. best score: -6
+Generation 140. best score: -7
+Generation 150. best score: -5
+Generation 160. best score: -4
+
+Experiment 3:
+Generation 0. best score: -17
+Generation 10. best score: -10
+Generation 20. best score: -6
+Generation 30. best score: -6
+Generation 40. best score: -3
+
+Experiment 4:
+Generation 0. best score: -16
+Generation 10. best score: -9
+Generation 20. best score: -6
+Generation 30. best score: -6
+Generation 40. best score: -6
+Generation 50. best score: -6
+Generation 60. best score: -9
+Generation 70. best score: -2
+Generation 80. best score: -4
+Generation 90. best score: -7
+Generation 100. best score: -5
+Generation 110. best score: -5
+Generation 120. best score: -4
+
+Experiment 5:
+Generation 0. best score: -13
+Generation 10. best score: -10
+Generation 20. best score: -11
+Generation 30. best score: -7
+Generation 40. best score: -9
+Generation 50. best score: -6
+Generation 60. best score: -8
+Generation 70. best score: -4
+Generation 80. best score: -3
+Generation 90. best score: -5
+Generation 100. best score: -4
+Generation 110. best score: -5
+Generation 120. best score: -5
+Generation 130. best score: -2
+Generation 140. best score: -4
+Generation 150. best score: -4
+Generation 160. best score: -4
+Generation 170. best score: -3
+Generation 180. best score: -4
+Generation 190. best score: -4
+Generation 200. best score: -3
+Generation 210. best score: -6
+Generation 220. best score: -4
+Generation 230. best score: -4
+Generation 240. best score: -3
+Generation 250. best score: -4
+Generation 260. best score: -6
+Generation 270. best score: -4
+Generation 280. best score: -6
+Generation 290. best score: -2
+Generation 300. best score: -4
+Generation 310. best score: -5
+Generation 320. best score: -4
+Generation 330. best score: -4
+Generation 340. best score: -5
+Generation 350. best score: -2
+Generation 360. best score: -3
+Generation 370. best score: -3
+
+Experiment 6:
+Generation 0. best score: -14
+Generation 10. best score: -12
+Generation 20. best score: -8
+Generation 30. best score: -7
+Generation 40. best score: -7
+Generation 50. best score: -4
+Generation 60. best score: -5
+Generation 70. best score: -2
+Generation 80. best score: -2
+Generation 90. best score: -3
+Generation 100. best score: -3
+Generation 110. best score: -2
+Generation 120. best score: -2
+Generation 130. best score: -2
+Generation 140. best score: -4
+Generation 150. best score: -2
+
+Experiment 7:
+Generation 0. best score: -17
+Generation 10. best score: -13
+Generation 20. best score: -9
+Generation 30. best score: -7
+Generation 40. best score: -2
+Generation 50. best score: -2
+Generation 60. best score: -4
+Generation 70. best score: -4
+Generation 80. best score: -4
+Generation 90. best score: -4
+Generation 100. best score: -5
+Generation 110. best score: -6
+Generation 120. best score: -5
+Generation 130. best score: -5
+Generation 140. best score: -5
+Generation 150. best score: -7
+Generation 160. best score: -5
+Generation 170. best score: -3
+
+Experiment 8:
+Generation 0. best score: -17
+Generation 10. best score: -11
+Generation 20. best score: -7
+Generation 30. best score: -7
+Generation 40. best score: -5
+Generation 50. best score: -4
+Generation 60. best score: -4
+Generation 70. best score: -6
+Generation 80. best score: -3
+Generation 90. best score: -5
+Generation 100. best score: -5
+Generation 110. best score: -5
+Generation 120. best score: -5
+Generation 130. best score: -6
+Generation 140. best score: -2
+Generation 150. best score: -5
+Generation 160. best score: -3
+Generation 170. best score: -3
+Generation 180. best score: -3
+Generation 190. best score: -2
+Generation 200. best score: -3
+Generation 210. best score: -5
+Generation 220. best score: -7
+Generation 230. best score: -6
+Generation 240. best score: -4
+Generation 250. best score: -3
+Generation 260. best score: -4
+Generation 270. best score: -4
+Generation 280. best score: -2
+Generation 290. best score: -3
+Generation 300. best score: -4
+Generation 310. best score: -4
+Generation 320. best score: -2
+Generation 330. best score: -4
+
+Experiment 9:
+Generation 0. best score: -14
+Generation 10. best score: -14
+Generation 20. best score: -13
+Generation 30. best score: -9
+Generation 40. best score: -8
+Generation 50. best score: -6
+Generation 60. best score: -6
+Generation 70. best score: -5
+Generation 80. best score: -6
+Generation 90. best score: -6
+Generation 100. best score: -6
+Generation 110. best score: -3
+Generation 120. best score: -8
+Generation 130. best score: -8
+Generation 140. best score: 0
+Mean: 86.08571428571429; Std: 55.077607583689186
+Time mean: 1.903760161853972; Std: 1.477192527965095
+
+Parameters: [ pop_size=30, p_mutation=0.07, p_crossover=0.9, selection_pressure=10 ]
+
+Experiment 0:
+Generation 0. best score: -16
+Generation 10. best score: -13
+Generation 20. best score: -12
+Generation 30. best score: -7
+Generation 40. best score: -6
+Generation 50. best score: -4
+Generation 60. best score: -2
+Generation 70. best score: -2
+
+Experiment 1:
+Generation 0. best score: -15
+Generation 10. best score: -8
+Generation 20. best score: -8
+Generation 30. best score: -6
+Generation 40. best score: -6
+Generation 50. best score: -4
+Generation 60. best score: -2
+
+Experiment 2:
+Generation 0. best score: -11
+Generation 10. best score: -2
+Generation 20. best score: 0
+
+Experiment 3:
+Generation 0. best score: -16
+Generation 10. best score: -17
+Generation 20. best score: -14
+Generation 30. best score: -10
+Generation 40. best score: -8
+Generation 50. best score: -6
+Generation 60. best score: -6
+Generation 70. best score: -3
+Generation 80. best score: -3
+Generation 90. best score: -2
+Generation 100. best score: -2
+Generation 110. best score: -2
+Generation 120. best score: -2
+Generation 130. best score: -2
+Generation 140. best score: -2
+Generation 150. best score: -2
+Generation 160. best score: -2
+Generation 170. best score: -3
+Generation 180. best score: -2
+
+Experiment 4:
+Generation 0. best score: -15
+Generation 10. best score: -9
+Generation 20. best score: -6
+Generation 30. best score: -6
+Generation 40. best score: -6
+Generation 50. best score: -6
+Generation 60. best score: 0
+
+Experiment 5:
+Generation 0. best score: -19
+Generation 10. best score: -13
+Generation 20. best score: -9
+Generation 30. best score: -6
+Generation 40. best score: -4
+
+Experiment 6:
+Generation 0. best score: -18
+Generation 10. best score: -11
+Generation 20. best score: -10
+Generation 30. best score: -4
+Generation 40. best score: -2
+Generation 50. best score: -2
+Generation 60. best score: -2
+
+Experiment 7:
+Generation 0. best score: -17
+Generation 10. best score: -8
+Generation 20. best score: -6
+Generation 30. best score: -5
+Generation 40. best score: -6
+Generation 50. best score: -4
+Generation 60. best score: -3
+Generation 70. best score: -3
+Generation 80. best score: -2
+
+Experiment 8:
+Generation 0. best score: -17
+Generation 10. best score: -12
+Generation 20. best score: -10
+Generation 30. best score: -10
+Generation 40. best score: -6
+Generation 50. best score: -7
+Generation 60. best score: -5
+Generation 70. best score: -5
+Generation 80. best score: -6
+Generation 90. best score: -4
+Generation 100. best score: -4
+
+Experiment 9:
+Generation 0. best score: -8
+Generation 10. best score: -8
+Generation 20. best score: -7
+Generation 30. best score: -5
+Generation 40. best score: -3
+Generation 50. best score: -2
+Generation 60. best score: -3
+Mean: 85.73636363636363; Std: 54.52604878265891
+Time mean: 1.9303959618915212; Std: 1.4723797224664519
+
+Parameters: [ pop_size=30, p_mutation=0.07, p_crossover=1.0, selection_pressure=5 ]
+
+Experiment 0:
+Generation 0. best score: -15
+Generation 10. best score: -15
+Generation 20. best score: -10
+Generation 30. best score: -9
+Generation 40. best score: -7
+Generation 50. best score: -5
+Generation 60. best score: -3
+Generation 70. best score: -3
+Generation 80. best score: -2
+Generation 90. best score: -2
+Generation 100. best score: -3
+Generation 110. best score: -3
+
+Experiment 1:
+Generation 0. best score: -15
+Generation 10. best score: -10
+Generation 20. best score: -8
+Generation 30. best score: -9
+Generation 40. best score: -10
+Generation 50. best score: -9
+Generation 60. best score: -7
+Generation 70. best score: -4
+Generation 80. best score: -4
+Generation 90. best score: -2
+Generation 100. best score: -3
+Generation 110. best score: -3
+Generation 120. best score: -6
+Generation 130. best score: -4
+Generation 140. best score: -4
+Generation 150. best score: -2
+Generation 160. best score: -5
+Generation 170. best score: -3
+Generation 180. best score: -6
+Generation 190. best score: -4
+Generation 200. best score: -4
+Generation 210. best score: -2
+Generation 220. best score: -2
+Generation 230. best score: -2
+Generation 240. best score: -4
+Generation 250. best score: -4
+Generation 260. best score: -3
+Generation 270. best score: -4
+Generation 280. best score: -3
+Generation 290. best score: -3
+Generation 300. best score: -3
+Generation 310. best score: -4
+Generation 320. best score: -5
+Generation 330. best score: -5
+Generation 340. best score: -4
+Generation 350. best score: -4
+Generation 360. best score: -4
+Generation 370. best score: -2
+Generation 380. best score: -3
+Generation 390. best score: -5
+Generation 400. best score: -7
+Generation 410. best score: -7
+Generation 420. best score: -3
+Generation 430. best score: -5
+Generation 440. best score: -2
+Generation 450. best score: -5
+Generation 460. best score: -3
+Generation 470. best score: -4
+Generation 480. best score: -6
+Generation 490. best score: -4
+Generation 500. best score: -3
+
+Experiment 2:
+Generation 0. best score: -17
+Generation 10. best score: -12
+Generation 20. best score: -10
+Generation 30. best score: -9
+Generation 40. best score: -8
+Generation 50. best score: -7
+Generation 60. best score: -9
+Generation 70. best score: -6
+Generation 80. best score: -4
+Generation 90. best score: -5
+Generation 100. best score: -4
+Generation 110. best score: -5
+Generation 120. best score: -3
+Generation 130. best score: -4
+Generation 140. best score: -2
+Generation 150. best score: -2
+Generation 160. best score: -2
+Generation 170. best score: 0
+
+Experiment 3:
+Generation 0. best score: -15
+Generation 10. best score: -11
+Generation 20. best score: -8
+Generation 30. best score: -8
+Generation 40. best score: -8
+Generation 50. best score: -6
+Generation 60. best score: -7
+Generation 70. best score: -6
+Generation 80. best score: -5
+Generation 90. best score: -2
+Generation 100. best score: -5
+Generation 110. best score: -2
+Generation 120. best score: -5
+Generation 130. best score: -3
+Generation 140. best score: -3
+Generation 150. best score: -4
+Generation 160. best score: -5
+Generation 170. best score: -7
+Generation 180. best score: -2
+Generation 190. best score: -3
+Generation 200. best score: -5
+Generation 210. best score: -4
+Generation 220. best score: -4
+Generation 230. best score: -3
+Generation 240. best score: -4
+Generation 250. best score: -5
+Generation 260. best score: -5
+Generation 270. best score: -4
+Generation 280. best score: -3
+
+Experiment 4:
+Generation 0. best score: -18
+Generation 10. best score: -12
+Generation 20. best score: -9
+Generation 30. best score: -6
+Generation 40. best score: -3
+Generation 50. best score: -5
+Generation 60. best score: -4
+Generation 70. best score: -2
+
+Experiment 5:
+Generation 0. best score: -16
+Generation 10. best score: -10
+Generation 20. best score: -8
+Generation 30. best score: -8
+Generation 40. best score: -6
+Generation 50. best score: -5
+Generation 60. best score: -4
+Generation 70. best score: -2
+Generation 80. best score: -5
+Generation 90. best score: -6
+Generation 100. best score: -5
+Generation 110. best score: -4
+Generation 120. best score: -5
+Generation 130. best score: -5
+Generation 140. best score: -4
+Generation 150. best score: -7
+Generation 160. best score: -4
+Generation 170. best score: -7
+Generation 180. best score: -3
+Generation 190. best score: -3
+Generation 200. best score: -2
+Generation 210. best score: -4
+Generation 220. best score: -2
+Generation 230. best score: -3
+Generation 240. best score: -3
+
+Experiment 6:
+Generation 0. best score: -18
+Generation 10. best score: -11
+Generation 20. best score: -10
+Generation 30. best score: -8
+Generation 40. best score: -6
+Generation 50. best score: -8
+Generation 60. best score: -6
+Generation 70. best score: -4
+Generation 80. best score: -6
+Generation 90. best score: -2
+Generation 100. best score: -2
+Generation 110. best score: -4
+Generation 120. best score: -4
+Generation 130. best score: -4
+Generation 140. best score: -4
+Generation 150. best score: -6
+Generation 160. best score: -4
+Generation 170. best score: -4
+Generation 180. best score: -4
+Generation 190. best score: -4
+Generation 200. best score: -2
+Generation 210. best score: -5
+
+Experiment 7:
+Generation 0. best score: -18
+Generation 10. best score: -12
+Generation 20. best score: -9
+Generation 30. best score: -9
+Generation 40. best score: -7
+Generation 50. best score: -6
+Generation 60. best score: -2
+Generation 70. best score: -4
+Generation 80. best score: -6
+Generation 90. best score: -4
+Generation 100. best score: -2
+Generation 110. best score: -3
+Generation 120. best score: -4
+Generation 130. best score: -3
+Generation 140. best score: -2
+
+Experiment 8:
+Generation 0. best score: -14
+Generation 10. best score: -11
+Generation 20. best score: -6
+Generation 30. best score: -4
+Generation 40. best score: -4
+Generation 50. best score: -6
+Generation 60. best score: -5
+Generation 70. best score: -5
+Generation 80. best score: -5
+Generation 90. best score: -4
+Generation 100. best score: -6
+Generation 110. best score: -3
+Generation 120. best score: -2
+Generation 130. best score: -4
+Generation 140. best score: -3
+Generation 150. best score: -2
+Generation 160. best score: -4
+Generation 170. best score: -2
+Generation 180. best score: -3
+Generation 190. best score: -4
+Generation 200. best score: -4
+Generation 210. best score: -4
+Generation 220. best score: -5
+Generation 230. best score: -3
+Generation 240. best score: -5
+Generation 250. best score: -2
+
+Experiment 9:
+Generation 0. best score: -16
+Generation 10. best score: -15
+Generation 20. best score: -13
+Generation 30. best score: -11
+Generation 40. best score: -6
+Generation 50. best score: -2
+Mean: 91.03478260869565; Std: 64.32503847865188
+Time mean: 2.1289272318715633; Std: 1.8946126154432583
+
+Parameters: [ pop_size=30, p_mutation=0.07, p_crossover=1.0, selection_pressure=10 ]
+
+Experiment 0:
+Generation 0. best score: -17
+Generation 10. best score: -11
+Generation 20. best score: -8
+Generation 30. best score: -4
+Generation 40. best score: -4
+Generation 50. best score: -2
+
+Experiment 1:
+Generation 0. best score: -12
+Generation 10. best score: -6
+Generation 20. best score: -5
+Generation 30. best score: -5
+Generation 40. best score: -3
+Generation 50. best score: -3
+Generation 60. best score: -3
+Generation 70. best score: -3
+Generation 80. best score: -4
+Generation 90. best score: -4
+Generation 100. best score: -4
+Generation 110. best score: -4
+Generation 120. best score: -4
+Generation 130. best score: -3
+Generation 140. best score: -2
+
+Experiment 2:
+Generation 0. best score: -14
+Generation 10. best score: -10
+Generation 20. best score: -8
+Generation 30. best score: -7
+Generation 40. best score: -8
+Generation 50. best score: -2
+Generation 60. best score: -3
+Generation 70. best score: -2
+Generation 80. best score: -3
+Generation 90. best score: -3
+Generation 100. best score: -2
+Generation 110. best score: -2
+Generation 120. best score: -2
+Generation 130. best score: -3
+Generation 140. best score: -4
+Generation 150. best score: -2
+Generation 160. best score: -2
+Generation 170. best score: -3
+
+Experiment 3:
+Generation 0. best score: -18
+Generation 10. best score: -9
+Generation 20. best score: -7
+Generation 30. best score: -5
+Generation 40. best score: -5
+Generation 50. best score: -5
+Generation 60. best score: -4
+Generation 70. best score: -2
+Generation 80. best score: 0
+
+Experiment 4:
+Generation 0. best score: -17
+Generation 10. best score: -11
+Generation 20. best score: -5
+Generation 30. best score: -3
+Generation 40. best score: -4
+Generation 50. best score: -4
+Generation 60. best score: -3
+Generation 70. best score: -4
+Generation 80. best score: -2
+Generation 90. best score: -2
+Generation 100. best score: -3
+Generation 110. best score: -3
+Generation 120. best score: -3
+Generation 130. best score: -3
+Generation 140. best score: -2
+
+Experiment 5:
+Generation 0. best score: -15
+Generation 10. best score: -9
+Generation 20. best score: -6
+Generation 30. best score: -6
+Generation 40. best score: -6
+Generation 50. best score: -4
+Generation 60. best score: -5
+
+Experiment 6:
+Generation 0. best score: -14
+Generation 10. best score: -7
+Generation 20. best score: -4
+Generation 30. best score: -2
+Generation 40. best score: -2
+Generation 50. best score: -2
+
+Experiment 7:
+Generation 0. best score: -16
+Generation 10. best score: -6
+Generation 20. best score: -4
+Generation 30. best score: -6
+Generation 40. best score: -5
+Generation 50. best score: -5
+Generation 60. best score: -5
+Generation 70. best score: -3
+Generation 80. best score: -4
+Generation 90. best score: -2
+Generation 100. best score: -4
+
+Experiment 8:
+Generation 0. best score: -14
+Generation 10. best score: -11
+Generation 20. best score: -6
+Generation 30. best score: -4
+Generation 40. best score: -4
+Generation 50. best score: -4
+Generation 60. best score: -4
+
+Experiment 9:
+Generation 0. best score: -17
+Generation 10. best score: -9
+Generation 20. best score: -8
+Generation 30. best score: -9
+Generation 40. best score: -5
+Generation 50. best score: -2
+Generation 60. best score: -2
+Generation 70. best score: -2
+Generation 80. best score: -2
+Generation 90. best score: -2
+Generation 100. best score: -2
+Mean: 91.40416666666667; Std: 63.52615498755993
+Time mean: 2.173712381720543; Std: 1.8839675438115546
+
+------------=== END OF EXPERIMENTS ===------------
+-	Ended on:  2020-12-24 20:31:13.343109  -
+--------------------------------------------------

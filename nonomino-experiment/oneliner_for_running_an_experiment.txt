@@ -1,0 +1,1 @@
+python GA_experiment_nonomino.py inputs/n8_00.txt > outputs/n8_00_experiment_result.log
